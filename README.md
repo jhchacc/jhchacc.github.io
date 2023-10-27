@@ -1,5 +1,5 @@
 # jhchacc.github.io
-Github Pages
+Meine Github Pages
 
 [German Declensions](./german/Declensions.md)
 
