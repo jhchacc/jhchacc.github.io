@@ -1,4 +1,4 @@
-# The Declensions
+# German Declension Patterns
 
 ## The German Case System
 
