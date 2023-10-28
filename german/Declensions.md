@@ -1,8 +1,12 @@
-# The Declensions
+# The German Declension Patterns
 
-## The German Case System
+While trying to learn German for many years, I've been hindered many times by 1) the "gender" of the nouns and 2) the transformations of the "determiners" of the nouns depending on the gender and their roles. As a novice language learner, the transformations seemed (to me at least) to consists of not only a few complicated rules but also lots of exceptions to memorize further. 
 
+I've wondered if I can put those rules and exceptions in one document. I recently came across [German with Laura](https://germanwithlaura.com/declension/#all-in-one-declensions-chart) which suggests that the rules can be summarized into a single chart. Hence I'd just wanted to further summarize the blog and see if they can be easier to memorize, at this page.
 
+## English vs. German
+
+First of all, English and German are different.
 
 <details>
   <summary>English vs. German</summary>
