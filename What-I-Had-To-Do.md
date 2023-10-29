@@ -52,6 +52,13 @@ rm about.markdown index.markdown _config.yml 404.html
 echo 'markdown: GFM' > _config.yml
 ```
 
+5. Add and install a Hook (WIP)
+
+```
+mkdir -r tocgem/lib
+cd tocgem; gem build tocgem.gemspec; gem install tocgem-0.0.0.gem; cd ../; bundle exec jekyll serve
+```
+
 - https://etch-cure.github.io/blog/toggle-dark-mode/
 - https://joont92.github.io/git/github-dark-theme-적용하기/
 - https://daybreaker.info/2019/05/07/applying-dark-mode/
@@ -61,6 +68,10 @@ echo 'markdown: GFM' > _config.yml
 - https://getbootstrap.com/docs/4.0/components/scrollspy/
 - https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/
 
-
+(for plugins)
+- https://guides.rubygems.org/make-your-own-gem/
+- See all the rubygems: https://rubygems.org/
+- https://jekyllrb-ko.github.io/docs/configuration/markdown/
+- https://github.com/jekyll/jemoji/blob/master/lib/jemoji.rb
 
 2. 
