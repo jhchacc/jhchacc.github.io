@@ -1,8 +1,8 @@
 # The German Declension Patterns
 
-While trying to learn German for many years, I've been hindered many times by 1) the "gender" of the nouns and 2) the transformations of the "determiners" of the nouns depending on the gender and their roles. As a novice language learner, the transformations seemed (to me at least) to consists of not only a few complicated rules but also lots of exceptions to memorize further. 
+While trying to learn German for many years, I've been hindered many times by 1) the "gender" of the nouns and 2) the transformations of the "determiners" of the nouns depending on the gender and their roles. As a novice language learner, the transformations seemed to me that it's not just a few rules but also comes with lots of exceptions to memorize. 
 
-I've wondered if I can put those rules and exceptions in one document. I recently came across [German with Laura](https://germanwithlaura.com/declension/#all-in-one-declensions-chart) which suggests that the rules can be summarized into a single chart. Hence I'd just wanted to further summarize the blog and see if they can be easier to memorize, at this page.
+I've been wondering if I can summarize those rules and exceptions eventually in one document, so that I can have a better overview and grasp the concept. In the mean time, I recently came across [a blog post at German with Laura](https://germanwithlaura.com/declension/#all-in-one-declensions-chart) where it's suggested that they can be summarized into a single chart. I could only agree that it's much better way than memorizing all the different charts! Being motivated by the post, I just wanted to further summarize it and see if they can be easier to memorize, at this page.
 
 ## English vs. German
 
