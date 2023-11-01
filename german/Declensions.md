@@ -6,16 +6,16 @@ I've been wondering if I can summarize those rules and exceptions eventually in 
 
 ## English vs. German
 
-First of all, English and German are different.
+First of all, it's better to start with understanding that English and German have different grammar to indicate the role of the nouns.
 
-<details>
-  <summary>English vs. German</summary>
+In English, the role of nouns are indicated by the order within a sentence.
+
+However, German indicates
 
 | English | German |
 | -- | -- |
 | The womay sings her little baby a song. | Die Frau singt ihrem kleinen Baby ein Lied. <br> Ihrem kleinen Baby singt die Frau ein Lied. <br> Ein Lied singt die Frau ihrem kleinen Baby. |
   
-</details>
 
 
 
