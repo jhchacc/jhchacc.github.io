@@ -9,8 +9,7 @@ I've been wondering if I can summarize those rules and exceptions eventually in 
 First of all, it's better to start with understanding that English and German have different grammar to indicate the role of the nouns.
 
 In English, the role of nouns are indicated by the order within a sentence.
-
-However, German indicates
+However, German indicates it by the declension of determiners/adjectives of the noun (and/or the noun itself). 
 
 | English | German |
 | -- | -- |
