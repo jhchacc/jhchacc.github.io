@@ -108,7 +108,9 @@ However, German indicates it by the declension of determiners/adjectives of the 
 - Bitte schenk mir **etwas heißes Wasser** ein! (Accusativ: Pattern #2 - by zero word _etwas_)
 - **Ein paar fleißige Studenten** meldeten sich. (Nominativ: Pattern #2 - by zero word _ein paar_)
 - Nachrichten Ihrer Lehrkraft (messages from your teacher)
-- 
+
+### Questions
+- Person mittleren Alters
 
 <details>
   <summary>Exception nouns</summary>
