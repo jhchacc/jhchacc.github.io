@@ -63,8 +63,7 @@ However, German indicates it by the declension of determiners/adjectives of the 
 
 #### Singular
 - **Pattern #1: determiner takes the strong declension; optional adjectives take the weak.**
-- Pattern #2: [**_EIN-WORD_**](#ein-word-determiners) determiner takes no declension (🚫); optional adjectives take the strong.
-  - only for 🚫 positions above: Masculine Nominativ, Neutral Nominativ, and Neutral Akkusativ.
+- Pattern #2: [**_EIN-WORD_**](#ein-word-determiners) determiner takes no declension (🚫 above); optional adjectives take the strong.
 - Pattern #3: [**_ZERO-WORD_**](#zero-word-determiners-for-singular) determiner takes no declension; optional adjectives take the strong.
 - Pattern #4: No determiners. **Adjectives take strong declensions.**
 - Special rules:
