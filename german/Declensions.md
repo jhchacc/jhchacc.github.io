@@ -15,57 +15,45 @@ However, German indicates it by the declension of determiners/adjectives of the 
 | -- | -- |
 | The womay sings her little baby a song. | Die Frau singt ihrem kleinen Baby ein Lied. <br> Ihrem kleinen Baby singt die Frau ein Lied. <br> Ein Lied singt die Frau ihrem kleinen Baby. |
   
-
+## The All-in-one Declension Chart
 
 
 <table>
-  <tr><th>The All-in-one Decension Chart</th><th>The Four Declension Patterns</th></tr>
+  <tr><th></th>         <th colspan=3>Masculine</th>                          <th colspan=3>Feminine</th>   <th colspan=3>Neutral</th>    <th colspan=3>Plural</th>     </tr>
   <tr>
-    <td>
-<!--       <img width="600" src="https://github.com/jhchacc/vigilant-invention/assets/36790678/db7001fc-6f98-43ba-91c3-e76fd43dc77f"> -->
-      <table>
-        <tr><th></th>         <th colspan=3>Masculine</th>                          <th colspan=3>Feminine</th>   <th colspan=3>Neutral</th>    <th colspan=3>Plural</th>     </tr>
-        <tr>
-          <th></th>         
-          <th></th><th>s<sup>1</sup></th><th>w<sup>2</sup></th> 
-          <th></th><th>s<sup>1</sup></th><th>w<sup>2</sup></th> 
-          <th></th><th>s<sup>1</sup></th><th>w<sup>2</sup></th> 
-          <th></th><th>s<sup>1</sup></th><th>w<sup>2</sup></th> 
-        </tr>
-        <tr>
-          <td>Nominativ</td> 
-          <td>🚫</td><td>r</td><td>e</td> 
-          <td></td><td>e</td><td>e</td> 
-          <td>🚫</td><td>s</td><td>e</td> 
-          <td></td><td>e</td><td>n</td> 
-        </tr>
-        <tr>
-          <td>Genetiv  </td> 
-          <td></td><td>s</td><td>n</td>   
-          <td></td><td>r</td><td>n</td> 
-          <td></td><td>s</td><td>n</td> 
-          <td></td><td>r</td><td>n</td> 
-        </tr>
-        <tr>
-          <td>Dativ    </td> 
-          <td></td><td>m</td><td>n</td>   
-          <td></td><td>r</td><td>n</td> 
-          <td></td><td>m</td><td>n</td> 
-          <td></td><td>n</td><td>n</td> 
-        </tr>
-        <tr>
-          <td>Akkusativ</td> 
-          <td></td><td>n</td><td>e</td>   
-          <td></td><td>e</td><td>e</td> 
-          <td>🚫</td><td>s</td><td>e</td> 
-          <td></td><td>e</td><td>n</td> 
-        </tr>
-      </table>
-      <sup>1: strong</sup><br><sup>2: weak</sup>
-    </td>
-    <td>
-      <img width="560" src="https://github.com/jhchacc/vigilant-invention/assets/36790678/23fda6e2-08ca-4df8-83a2-fda8fbdaf2b0">
-    </td>
+    <th></th>         
+    <th></th><th>s<sup>1</sup></th><th>w<sup>2</sup></th> 
+    <th></th><th>s<sup>1</sup></th><th>w<sup>2</sup></th> 
+    <th></th><th>s<sup>1</sup></th><th>w<sup>2</sup></th> 
+    <th></th><th>s<sup>1</sup></th><th>w<sup>2</sup></th> 
+  </tr>
+  <tr>
+    <td>Nominativ</td> 
+    <td>🚫</td><td>r</td><td>e</td> 
+    <td></td><td>e</td><td>e</td> 
+    <td>🚫</td><td>s</td><td>e</td> 
+    <td></td><td>e</td><td>n</td> 
+  </tr>
+  <tr>
+    <td>Genetiv  </td> 
+    <td></td><td>s</td><td>n</td>   
+    <td></td><td>r</td><td>n</td> 
+    <td></td><td>s</td><td>n</td> 
+    <td></td><td>r</td><td>n</td> 
+  </tr>
+  <tr>
+    <td>Dativ    </td> 
+    <td></td><td>m</td><td>n</td>   
+    <td></td><td>r</td><td>n</td> 
+    <td></td><td>m</td><td>n</td> 
+    <td></td><td>n</td><td>n</td> 
+  </tr>
+  <tr>
+    <td>Akkusativ</td> 
+    <td></td><td>n</td><td>e</td>   
+    <td></td><td>e</td><td>e</td> 
+    <td>🚫</td><td>s</td><td>e</td> 
+    <td></td><td>e</td><td>n</td> 
   </tr>
 </table>
 
