@@ -63,9 +63,9 @@ However, German indicates it by the declension of determiners/adjectives of the 
 
 #### Singular
 - **Pattern #1: determiner takes the strong declension; optional adjectives take the weak.**
-- Pattern #2: **_EIN-WORD_** determiner takes no declension; optional adjectives take the strong.
-  - only for the 3 positions above: Masculine Nominativ, Neutral Nominativ, and Neutral Akkusativ.
-- Pattern #3: **_ZERO-WORD_** determiner takes no declension; optional adjectives take the strong.
+- Pattern #2: [**_EIN-WORD_**](#ein-word-determiners) determiner takes no declension (🚫); optional adjectives take the strong.
+  - only for 🚫 positions above: Masculine Nominativ, Neutral Nominativ, and Neutral Akkusativ.
+- Pattern #3: [**_ZERO-WORD_**](#zero-word-determiners-for-singular) determiner takes no declension; optional adjectives take the strong.
 - Pattern #4: No determiners. **Adjectives take strong declensions.**
 - Special rules:
   - weak masculine nouns in Genetiv, Dativ, Akkusativ: add `-en` at the end of the noun.
@@ -73,30 +73,32 @@ However, German indicates it by the declension of determiners/adjectives of the 
 
 #### Plural
 - **Pattern #1: determiner takes the strong declension; optional adjectives take the weak.**
-- Pattern #2: **_RULE-BREAKER_** determiner takes strong declension; optional adjectives take the strong.
-- Pattern #3: **_ZERO-WORD_** determiner takes no declension; optional adjectives take the strong.
+- Pattern #2: [**_RULE-BREAKER_**](#rule-breaker-determiners-for-plural) determiner takes strong declension; optional adjectives take the strong.
+- Pattern #3: [**_ZERO-WORD_**](#zero-word-determiners-for-plural) determiner takes no declension; optional adjectives take the strong.
 - Pattern #4: No determiners. **Adjectives take strong declensions.**
 
 #### Pronouns
 - **_EIN-WORDs_** used as pronouns take all the regular strong declensions!
 
 ### Determiners and Adjectives:
-- Determiners:
-  - EIN-WORD determiners: ein, irgendein, kein, mein, dein, sein, ihr, ...
-  - DER-WORD determiners: d-, welche-, dies-, jed-, jen-, ...
-  - ZERO-WORD determiners:
-    - for Singular:
-      - ein wenig, ein bisschen, etwas, nichts, genug, lauter, dergleichen, derlei (cannot be used for plural)
-      - wenig, viel, manch, solch, all (not ZERO-WORDs for plural)
-        - Special cases: solch/manch \[+ EIN-WORD determiners\] \[+ Adjectives\]
-          - solch Fehler, solch ein Fehler, solch ein dummer Fehler, solch dummer Fehler, manch solch dummer Fehler, ein solch dummer Fehler, ...
-          - manch ein Mann, manch eine Frau, ...
-    - for Plural:
-      - ein paar
-  - RULE-BREAKER determiners (only for Plural):
-    - manch (cannot be used as adjective)
-    - etlich, verschieden, zahlreich, folgend, wenig, ander, einig, mehrer, viel (can still be used as adjectives (interesting!))
-- Adjectives: groß, klein, rund, flat, blau, ...
+<table>
+<td>
+
+- #### DER-WORD determiners:
+  - der/die/das, welche-, dies-, jed-, jen-, ...
+- #### EIN-WORD determiners:
+  - ein, irgendein, kein, mein, dein, sein, ihr, ... 
+- #### ZERO-WORD determiners (for singular):
+  - ein wenig, ein bisschen, etwas, nichts, genug, lauter, dergleichen, derlei (cannot be used for plural)
+  - wenig, viel, manch, solch, all (not ZERO-WORD determiners for plural)
+- #### ZERO-WORD determiners (for plural):
+  - ein paar
+- #### RULE-BREAKER determiners (for plural):
+  - manch, etlich, verschieden, zahlreich, folgend, wenig, ander, einig, mehrer, viel (Q: what if these are used as adjectives?)
+- #### Adjectives:
+  - groß, klein, rund, flat, blau, ...
+</td>
+</table>
 
 ### Practice
 - Mein Vater ist **ein freundlicher Mann**. (Nominativ: Pattern #2)
