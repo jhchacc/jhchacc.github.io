@@ -3,7 +3,7 @@ My Github Pages - random thoughts
 
 [What I had to do to build up this blog site (so far)](./What-I-Had-To-Do.md)
 
-[German Declensions](./german/Declensions.md)
+[German](./german)
 
 [Swift programming for macOS](./swift/MacOS.md)
 
