@@ -5,5 +5,6 @@
 
 ## Verbs
 
-- vorlegen, liegt vor, legte vor, hat vorgelegt
-- 
+- [vorlegen, liegt vor, legte vor, hat vorgelegt](https://www.collinsdictionary.com/ko/conjugation/german-conjugation/vorlegen)
+- [vorliegen, liege vor, lag vor, vorgelegen](https://www.collinsdictionary.com/ko/conjugation/german-conjugation/vorliegen)
+
