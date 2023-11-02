@@ -7,7 +7,7 @@ My Github Pages - random thoughts
 
 [Swift programming for macOS](./swift/MacOS.md)
 
-Socket Programming
+[Socket Programming](./socket)
 
 C/C++
 
