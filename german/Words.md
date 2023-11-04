@@ -3,6 +3,13 @@
 [B2 flashcards](https://quizlet.com/kr/845071153/b2-flash-cards/?funnelUUID=aa3af2d3-988a-4b7a-8ebe-cbe990c9a420)
 
 
+- riesig / winzig /
+- zierlich / breitschultrig / mollig / korpulent /
+- der Körper: schlank / dünn / hager / untergewichtig / muskulös / breitschultrig / dick / korpulent / mollig / úbergewichtig
+- die Haut: glatt / faltig / blass / hell / dunkel
+- die Haare: blass / schütter / fettig / 
+- schätzen / unterstützen / 
+
 ## Verben
 - vorlegen
 - anfertigen
@@ -38,6 +45,8 @@
 - erstellen
 - beilegen
 - unterzeichnen
+- unterstützen
+- schätzen 
 
 ## Adjectives
 - dünn
