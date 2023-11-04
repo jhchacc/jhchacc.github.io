@@ -10,7 +10,7 @@
 - die Haare: blass / schütter / fettig / 
 - schätzen / unterstützen /
 
-<ul>
+<ul style="float: left; margin: 0 20px;">
   <li style="float: left; margin: 0 20px;">test1</li>
   <li style="float: left; margin: 0 20px;">test2</li>
 </ul>
