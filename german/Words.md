@@ -11,11 +11,21 @@
 - schätzen / unterstützen /
 
 <ul style="float: left; margin: 0 20px;">
-  <li style="float: left; margin: 0 20px;">test1</li>
-  <li style="float: left; margin: 0 20px;">test2</li>
+  <li>test1</li>
+  <li>test2</li>
 </ul>
+<br>
+
+<ul>
+  <li style="float: left; margin: 0 20px;">test3</li>
+  <li style="float: left; margin: 0 20px;">test4</li>
+</ul>
+<br>
 
 ## Verben
+
+
+
 - vorlegen
 - anfertigen
 - ausweisen (sich)
