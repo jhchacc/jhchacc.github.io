@@ -22,6 +22,20 @@
 </ul>
 <br>
 
+<ul style="float: left; margin: 0 20px;">
+ - test5
+ - test6
+</ul>
+<br>
+
+<table>
+<tr><td style="float: left; margin: 0 20px;">
+    
+- test
+- test2
+</td></tr>
+</table>
+
 ## Verben
 
 
