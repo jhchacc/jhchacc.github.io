@@ -38,9 +38,15 @@
 
 <table>
 <tr><td style="float: left; margin: 0 20px;">
-    
 <li>test</li>
 <li>test</li>
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+  <li style="float: left; margin: 0 20px;">test3</li>
+  <li style="float: left; margin: 0 20px;">test4</li>
 </td></tr>
 </table>
 
