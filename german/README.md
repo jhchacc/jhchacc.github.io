@@ -5,4 +5,4 @@
 [German Words](./Words.md)
 
 
-Fürs Lernen ist es nie zu spät.
+Tag des lebenslangen Lernens: Fürs Lernen ist es nie zu spät.
