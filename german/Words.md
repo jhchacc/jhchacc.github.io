@@ -36,6 +36,14 @@
 </td></tr>
 </table>
 
+<table>
+<tr><td style="float: left; margin: 0 20px;">
+    
+<li>test</li>
+<li>test</li>
+</td></tr>
+</table>
+
 ## Verben
 
 
