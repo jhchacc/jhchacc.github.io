@@ -55,6 +55,7 @@
 
 ## Adjectives
 
+<ul>
 <li style="float: left; margin: 0 20px;">dünn</li>
 <li style="float: left; margin: 0 20px;">übergewichtig</li>
 <li style="float: left; margin: 0 20px;">untergewichtig</li>
@@ -86,3 +87,4 @@
 <li style="float: left; margin: 0 20px;">gelockt</li>
 <li style="float: left; margin: 0 20px;">schütter</li>
 <li style="float: left; margin: 0 20px;">fettig</li>
+</ul><br>
