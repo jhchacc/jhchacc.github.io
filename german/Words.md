@@ -10,9 +10,9 @@
 - die Haare: blass / schütter / fettig / 
 - schätzen / unterstützen /
 
-<ul display="inline">
-  <li display="inline">test1</li>
-  <li display="inline">test2</li>
+<ul>
+  <li style="float: left; margin: 0 20px;">test1</li>
+  <li style="float: left; margin: 0 20px;">test2</li>
 </ul>
 
 ## Verben
