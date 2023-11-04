@@ -10,13 +10,6 @@
 - die Haare: blass / schütter / fettig / 
 - schätzen / unterstützen /
 
-<table>
-<tr><td>
-  <li style="float: left; margin: 0 20px;">test3</li>
-  <li style="float: left; margin: 0 20px;">test4</li>
-</td></tr>
-</table>
-
 ## Verben
 
 <ul>
@@ -57,6 +50,8 @@
 <li style="float: left; margin: 0 20px;">unterstützen</li>
 <li style="float: left; margin: 0 20px;">schätzen</li>
 </ul>
+
+<br>
 
 ## Adjectives
 
