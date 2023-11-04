@@ -8,7 +8,12 @@
 - der Körper: schlank / dünn / hager / untergewichtig / muskulös / breitschultrig / dick / korpulent / mollig / úbergewichtig
 - die Haut: glatt / faltig / blass / hell / dunkel
 - die Haare: blass / schütter / fettig / 
-- schätzen / unterstützen / 
+- schätzen / unterstützen /
+
+<ul display="inline">
+  <li display="inline">test1</li>
+  <li display="inline">test2</li>
+</ul>
 
 ## Verben
 - vorlegen
