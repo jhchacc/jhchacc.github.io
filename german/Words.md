@@ -12,9 +12,7 @@
 
 ## Verben
 
-<table>
-  <td>
-<ul>
+<table><td><ul>
 <li style="float: left; margin: 0 20px;">vorlegen</li>
 <li style="float: left; margin: 0 20px;">anfertigen</li>
 <li style="float: left; margin: 0 20px;">ausweisen sich</li>
@@ -51,15 +49,11 @@
 <li style="float: left; margin: 0 20px;">unterzeichnen</li>
 <li style="float: left; margin: 0 20px;">unterstützen</li>
 <li style="float: left; margin: 0 20px;">schätzen</li>
-</ul></td>
-</table>
-<br>
+</ul></td></table>
 
 ## Adjectives
 
-<table>
-  <td>
-<ul>
+<table><td><ul>
 <li style="float: left; margin: 0 20px;">dünn</li>
 <li style="float: left; margin: 0 20px;">übergewichtig</li>
 <li style="float: left; margin: 0 20px;">untergewichtig</li>
@@ -91,6 +85,4 @@
 <li style="float: left; margin: 0 20px;">gelockt</li>
 <li style="float: left; margin: 0 20px;">schütter</li>
 <li style="float: left; margin: 0 20px;">fettig</li>
-</ul></td>
-</table>
-<br>
+</ul></td></table>
