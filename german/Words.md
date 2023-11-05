@@ -13,10 +13,10 @@
 ## Verben
 
 <table><td><ul>
-<li style="float: left; margin: 0 20px;">vorlegen</li>
-<li style="float: left; margin: 0 20px;">anfertigen</li>
-<li style="float: left; margin: 0 20px;">ausweisen sich</li>
-<li style="float: left; margin: 0 20px;">beantragen</li>
+<li class="s4" style="float: left; margin: 0 20px;">vorlegen</li>
+<li class="s4" style="float: left; margin: 0 20px;">anfertigen</li>
+<li class="s4" style="float: left; margin: 0 20px;">ausweisen sich</li>
+<li class="s4" style="float: left; margin: 0 20px;">beantragen</li>
 <li style="float: left; margin: 0 20px;">einreichen</li>
 <li style="float: left; margin: 0 20px;">gewähren</li>
 <li style="float: left; margin: 0 20px;">immatrikulieren</li>
@@ -49,6 +49,19 @@
 <li style="float: left; margin: 0 20px;">unterzeichnen</li>
 <li style="float: left; margin: 0 20px;">unterstützen</li>
 <li style="float: left; margin: 0 20px;">schätzen</li>
+<li style="float: left; margin: 0 20px;">unterhalten</li>
+<li style="float: left; margin: 0 20px;">hinauswollen</li>
+<li style="float: left; margin: 0 20px;">umgehen</li>
+<li style="float: left; margin: 0 20px;">fördern</li>
+<li style="float: left; margin: 0 20px;">bemühen (sich)</li>
+<li style="float: left; margin: 0 20px;">zulassen</li>
+<li style="float: left; margin: 0 20px;">mitreden</li>
+<li style="float: left; margin: 0 20px;">verbleiben</li>
+<li style="float: left; margin: 0 20px;">antun</li>
+<li style="float: left; margin: 0 20px;">hinkriegen</li>
+<li style="float: left; margin: 0 20px;">aufbauen</li>
+<li style="float: left; margin: 0 20px;">antun</li>
+  
 </ul></td></table>
 
 ## Adjectives
@@ -71,8 +84,8 @@
 <li style="float: left; margin: 0 20px;">modisch</li>
 <li style="float: left; margin: 0 20px;">geschätzt</li>
 <li style="float: left; margin: 0 20px;">riesig</li>
-<li style="float: left; margin: 0 20px;">zierlich</li>
 <li style="float: left; margin: 0 20px;">winzig</li>
+<li style="float: left; margin: 0 20px;">zierlich</li>
 <li style="float: left; margin: 0 20px;">jugendlich</li>
 <li style="float: left; margin: 0 20px;">betage</li>
 <li style="float: left; margin: 0 20px;">blass</li>
@@ -86,3 +99,22 @@
 <li style="float: left; margin: 0 20px;">schütter</li>
 <li style="float: left; margin: 0 20px;">fettig</li>
 </ul></td></table>
+
+## Nouns
+
+<table><td><ul>
+<li style="float: left; margin: 0 20px;">der Krankenpfleger</li>
+<li style="float: left; margin: 0 20px;">der Intensivstation</li>
+<li style="float: left; margin: 0 20px;">die Zukuntspläne</li>
+<li style="float: left; margin: 0 20px;">die Voraussetzung</li>
+<li style="float: left; margin: 0 20px;">die Verantwortung</li>
+<li style="float: left; margin: 0 20px;">die Berufserfahrung</li>
+<li style="float: left; margin: 0 20px;">die Erfahrung</li>
+<li style="float: left; margin: 0 20px;">die Enkelkinder</li>
+<li style="float: left; margin: 0 20px;">die Weiterbildung</li>
+<li style="float: left; margin: 0 20px;">der Krankenpfleger</li>
+<li style="float: left; margin: 0 20px;">der Krankenpfleger</li>
+<li style="float: left; margin: 0 20px;">der Krankenpfleger</li>
+
+</ul></td></table>
+
