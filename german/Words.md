@@ -5,7 +5,13 @@
 ## Verben
 
 <table><td>
-vorlegen / anfertigen / ausweisen sich / beantragen / einreichen /  gewähren /  immatrikulieren /  unterzeichnen /  widerrufen /  umarmen sich /  vorstellen sich /  zuwinken /  austauschen sich /  aufnehmen sich /  herstellen sich /  aufrechthalten /  bejahen /  meinen /  ablehnen /  annehmen sich /  zustimmen /  widersprechen /  zuhören /  erwidern /  bekannt geben /  erzählen /  erklären /  berichten /  ranghöchste /  ebenfalls /  führen /  erstellen /  beilegen /  unterzeichnen /  unterstützen /  schätzen /  unterhalten /  hinauswollen /  umgehen /  fördern /  bemühen (sich) /  zulassen /  mitreden /  verbleiben /  antun /  hinkriegen / aufbauen / antun / murmeln / stammeln / jammern / nuscheln / tuscheln / seufzen / flüstern / lispeln / vorsagen / plaudern / prahlen / petzen / vortragen / stottern / quasseln / schimpfen / befehlen / stöhnen / nörgeln / hinzuweisen
+vorlegen / anfertigen / ausweisen sich / beantragen / einreichen /  gewähren /  immatrikulieren /  unterzeichnen /  widerrufen /  umarmen sich /  vorstellen sich /  zuwinken /  austauschen sich /  aufnehmen sich /  herstellen sich /  aufrechthalten /  bejahen /  meinen /  ablehnen /  annehmen sich /  zustimmen /  widersprechen /  zuhören /  erwidern /  bekannt geben /  erzählen /  erklären /  berichten /  ranghöchste /  ebenfalls /  führen /  erstellen /  beilegen /  unterzeichnen /  unterstützen /  schätzen /  unterhalten /  hinauswollen /  umgehen /  fördern /  bemühen (sich) /  zulassen /  mitreden /  verbleiben /  antun /  hinkriegen / aufbauen / antun
+</td></table>
+
+### B2
+
+<table><td>
+murmeln / stammeln / jammern / nuscheln / tuscheln / seufzen / flüstern / lispeln / vorsagen / plaudern / prahlen / petzen / vortragen / stottern / quasseln / schimpfen / befehlen / stöhnen / nörgeln / hinzuweisen
 </td></table>
 
 ## Adjectives
