@@ -11,7 +11,8 @@ My Github Pages - random thoughts
 
 C/C++
 - [Abseil: C++ TotW](https://abseil.io/tips/)
-- https://rigtorp.se
+- [rigtorp.se](https://rigtorp.se)
+- [github.com/isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 
 [Google Style Guide](https://google.github.io/styleguide/)
 
