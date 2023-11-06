@@ -13,6 +13,7 @@ C/C++
 - [Abseil: C++ TotW](https://abseil.io/tips/)
 - [rigtorp.se](https://rigtorp.se)
 - [github.com/isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+- (https://hftgirl.medium.com/top-10-useful-resources-for-software-development-in-hft-4c538ade2d7d)
 
 [Google Style Guide](https://google.github.io/styleguide/)
 
