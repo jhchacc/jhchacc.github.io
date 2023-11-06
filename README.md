@@ -10,6 +10,7 @@ My Github Pages - random thoughts
 [Socket Programming](./socket_programming)
 
 C/C++
+- [Abseil: C++ TotW](https://abseil.io/tips/)
 
 [Google Style Guide](https://google.github.io/styleguide/)
 
