@@ -35,13 +35,10 @@
 | [einleben](https://dict.naver.com/dekodict/#/search?range=all&query=einleben) / einleben sich | 정착하다 / 정착하다, 숙달되다 |
 | [unterhalten](https://dict.naver.com/dekodict/#/search?range=all&query=unterhalten) / unterhalten sich | 부양하다, 기르다, 보존하다, 사육하다, 연락을 끊지 않다 / 담소를 나누다, 즐겁게 대화하다 |
 | [umlegen](https://dict.naver.com/dekodict/#/search?range=all&query=umlegen) / umlegen sich | 휘감다, 둘러주다, 눕히다, 넘어뜨리다 / 넘어지다, 엎드리다, 누워 쉬다 |
-| [hinauswollen](https://dict.naver.com/dekodict/#/search?range=all&query=hinauswollen) |  |
-| [schätzen](https://dict.naver.com/dekodict/#/search?range=all&query=schätzen) | 1) 평가하다, 어림잡다, 라고 생각하다 2) 소중히 여기다, 존중하다, 가치를 인정하다 |
 | [unterstützen](https://dict.naver.com/dekodict/#/search?range=all&query=unterstützen) |  |
 | [fördern](https://dict.naver.com/dekodict/#/search?range=all&query=fördern) |  |
 | [ablaufen](https://dict.naver.com/dekodict/#/search?range=all&query=ablaufen) |  |
 | [bemühen](https://dict.naver.com/dekodict/#/search?range=all&query=bemühen) / bemühen sich | 수고/폐를 끼치다 / (재귀) 노력하다 |
-| [zulernen](https://dict.naver.com/dekodict/#/search?range=all&query=zulernen) |  |
 | [verbleiben](https://dict.naver.com/dekodict/#/search?range=all&query=verbleiben) |  |
 | [zulassen](https://dict.naver.com/dekodict/#/search?range=all&query=zulassen) | 1) 허용하다, 방임하다, 내버려두다 2) (문을) 닫아 두다 |
 | [antun](https://dict.naver.com/dekodict/#/search?range=all&query=antun) |  |
@@ -52,17 +49,22 @@
 | [ängstiegen](https://dict.naver.com/dekodict/#/search?range=all&query=ängstiegen) / ängstiegen sich |  |
 | [knüpfen](https://dict.naver.com/dekodict/#/search?range=all&query=knüpfen) |  |
 | [aufbauen](https://dict.naver.com/dekodict/#/search?range=all&query=aufbauen) / aufbauen sich |  |
-| [vermitteln](https://dict.naver.com/dekodict/#/search?range=all&query=vermitteln) |  |
-| [lästern](https://dict.naver.com/dekodict/#/search?range=all&query=lästern) |  |
-| [zurechtkommen](https://dict.naver.com/dekodict/#/search?range=all&query=zurechtkommen) |  |
-| [anvertrauen](https://dict.naver.com/dekodict/#/search?range=all&query=anvertrauen) |  |
 | [miteinander](https://dict.naver.com/dekodict/#/search?range=all&query=miteinander) auskommen |  |
-| [wahren](https://dict.naver.com/dekodict/#/search?range=all&query=wahren) |  |
 | [gelten](https://dict.naver.com/dekodict/#/search?range=all&query=gelten) |  |
-| [aufheben](https://dict.naver.com/dekodict/#/search?range=all&query=aufheben) |  |
 | [abgeben](https://dict.naver.com/dekodict/#/search?range=all&query=abgeben) |  |
-| [ausreichen](https://dict.naver.com/dekodict/#/search?range=all&query=ausreichen) |  |
-| [tragen](https://dict.naver.com/dekodict/#/search?range=all&query=tragen) |  |
+| [tragen](https://dict.naver.com/dekodict/#/search?range=all&query=tragen) | 1. t. 2. t. 나르다, 운반하다, 가지고 가다, 지다; 일정 구간 거리에) 이르다, 달하다 3. t. (떠)받치다, 지탱하다, 싣고 있다 |
+| [ausreichen](https://dict.naver.com/dekodict/#/search?range=all&query=ausreichen) | 1. i. 넉넉하다, 족하다 2. i. «구어» 꾸려나가다 |
+| [aufheben](https://dict.naver.com/dekodict/#/search?range=all&query=aufheben) | 1. t. 2. t. 들어 올리다; (바닥에서) 주워{집어} 올리다 3. t. «구식•아어» 몸을 일으키다, 일어서다 |
+| [wahren](https://dict.naver.com/dekodict/#/search?range=all&query=wahren) | 1. t. 지키다, 보호{유지}하다 2. t. 주의{조심}하다 3. t. (nordd.) 보존{보관}하다. |
+| [anvertrauen](https://dict.naver.com/dekodict/#/search?range=all&query=anvertrauen) | 1. t. (믿고) 맡기다, 위탁하다 2. t. (비밀을) 털어놓다; 고백하다 3. refl. 속마음을 토로하다 |
+| [zurechtkommen](https://dict.naver.com/dekodict/#/search?range=all&query=zurechtkommen) | 1. i. 잘 해나가다, 잘 다루다 2. i. «드물게»알맞게 오다, 제때에 오다 3. i. 상관 없다 |
+| [lästern](https://dict.naver.com/dekodict/#/search?range=all&query=lästern) | 1. i.(+haben)/t. 중상하다, 비방하다; (신성을) 모독하다 |
+| [vermitteln](https://dict.naver.com/dekodict/#/search?range=all&query=vermitteln) | 1. t. 성사시키다, 성립시키다; 주선하다, 알선하다; 중개하다 2. t. (사상 따위를) 전달하다, 매개하다 3. t. [철학] 매개하다 |
+| [helfen](https://dict.naver.com/dekodict/#/search?range=all&query=helfen) | 1. i. jm. helfen 누구를 돕다, 거들다, 원조하다, 조력하다 2. i. «보통 zu 없는 부정법과 함께» 3. i. 도움이 되다, 유용하다, 유익하다; 효과가 있다 |
+| [zusagen](https://dict.naver.com/dekodict/#/search?range=all&query=zusagen) | 1. t. 약속{확언}하다 2. t. 맞대놓고 말하다 3. i. (제안•초대에) 응하다, 받아들이다 |
+| [verbleiben](https://dict.naver.com/dekodict/#/search?range=all&query=verbleiben) | 1. i. (어떤 곳에) 지속적으로 머무르다{잔류하다}. 2. i. (어떤 상태에) 멎어 있다 3. i. 남아 있다(übrigbleiben) |
+| [zulernen](https://dict.naver.com/dekodict/#/search?range=all&query=zulernen) | 1. t. 계속 더 배우다, 지식을 늘리다. |
+| [hinauswollen](https://dict.naver.com/dekodict/#/search?range=all&query=hinauswollen) | 1. i. 밖으로 나가고 싶어 하다. 2. i. hoch hinauswollen 높은 야망을 품다. 3. i. auf et. hinauswollen 무엇을 의도하다. |
 | [hinzuweisen](https://dict.naver.com/dekodict/#/search?range=all&query=hinzuweisen) |  |
 | [murmeln](https://dict.naver.com/dekodict/#/search?range=all&query=murmeln) | 중얼거리다, 웅얼거리다 |
 | [stammeln](https://dict.naver.com/dekodict/#/search?range=all&query=stammeln) | 말을 더듬다, 중얼거리다 |
