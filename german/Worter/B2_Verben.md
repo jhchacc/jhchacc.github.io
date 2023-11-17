@@ -44,7 +44,6 @@
 | [antun](https://dict.naver.com/dekodict/#/search?range=all&query=antun) |  |
 | [mitreden](https://dict.naver.com/dekodict/#/search?range=all&query=mitreden) |  |
 | [hinkriegen](https://dict.naver.com/dekodict/#/search?range=all&query=hinkriegen) |  |
-| [zusagen](https://dict.naver.com/dekodict/#/search?range=all&query=zusagen) |  |
 | [helfen](https://dict.naver.com/dekodict/#/search?range=all&query=helfen) sich3 |  |
 | [ängstiegen](https://dict.naver.com/dekodict/#/search?range=all&query=ängstiegen) / ängstiegen sich |  |
 | [knüpfen](https://dict.naver.com/dekodict/#/search?range=all&query=knüpfen) |  |
@@ -52,6 +51,7 @@
 | [miteinander](https://dict.naver.com/dekodict/#/search?range=all&query=miteinander) auskommen |  |
 | [gelten](https://dict.naver.com/dekodict/#/search?range=all&query=gelten) |  |
 | [abgeben](https://dict.naver.com/dekodict/#/search?range=all&query=abgeben) |  |
+| [schätzen](https://dict.naver.com/dekodict/#/search?range=all&query=schätzen) | 1) 평가하다, 어림잡다, 라고 생각하다 2) 소중히 여기다, 존중하다, 가치를 인정하다 |
 | [tragen](https://dict.naver.com/dekodict/#/search?range=all&query=tragen) | 1. t. 2. t. 나르다, 운반하다, 가지고 가다, 지다; 일정 구간 거리에) 이르다, 달하다 3. t. (떠)받치다, 지탱하다, 싣고 있다 |
 | [ausreichen](https://dict.naver.com/dekodict/#/search?range=all&query=ausreichen) | 1. i. 넉넉하다, 족하다 2. i. «구어» 꾸려나가다 |
 | [aufheben](https://dict.naver.com/dekodict/#/search?range=all&query=aufheben) | 1. t. 2. t. 들어 올리다; (바닥에서) 주워{집어} 올리다 3. t. «구식•아어» 몸을 일으키다, 일어서다 |
