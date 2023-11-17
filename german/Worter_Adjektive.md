@@ -1,6 +1,5 @@
 | 단어 | 뜻 |
 | -- | -- |
-
 | geboren | 타고난 | 
 | hochrangig | 급수가 높은, 등급이 높은 | 
 | vorherig | 이전의 | 
