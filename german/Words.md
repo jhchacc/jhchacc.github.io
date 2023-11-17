@@ -4,6 +4,10 @@
 
 [B2 Adjektive](./Worter/B2_Adjektive.md)
 
+[B2 Adverb](./Worter/B2_Adverb.md)
+
+[B2 Verben](./Worter/B2_Verben.md)
+
 ## Verben
 
 <table><td>
