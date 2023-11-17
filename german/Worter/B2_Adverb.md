@@ -1,5 +1,26 @@
 | 단어 | 뜻 |
 | -- |  -- |
+| [beziehungsweise](https://dict.naver.com/dekodict/#/search?query=beziehungsweise) (bzw.) | 또는, 내지는, 보다 정확히 말하자면 |
+| [logischerweise](https://dict.naver.com/dekodict/#/search?query=logischerweise) | 논리적으로, 필연적으로 |
+| [beispielsweise](https://dict.naver.com/dekodict/#/search?query=beispielsweise) | 예를 들자면 |
+| [nämlich](https://dict.naver.com/dekodict/#/search?query=nämlich) | 즉, 왜냐하면, 구체적으로, 바로 그 |
+| [in der Tat](https://dict.naver.com/dekodict/#/search?query=in%20der%20Tat) | 사실상, 정말로 |
+| [tatsächlich](https://dict.naver.com/dekodict/#/search?query=tatsächlich) | 실제로, 진실로, 확실히 / (실제의, 진실의, 확실한) |
+| [leise](https://dict.naver.com/dekodict/#/search?query=leise) | 낮은 목소리의 |
+| [sonst](https://dict.naver.com/dekodict/#/search?query=sonst) | 그렇지 않으면 |
+| [nachdem](https://dict.naver.com/dekodict/#/search?query=nachdem) | ~한 후에 |
+| [zuletzt](https://dict.naver.com/dekodict/#/search?query=zuletzt) | 마지막에, 최후에 |
+| [je nachdem](https://dict.naver.com/dekodict/#/search?query=je%20) | ~에 따라서 |
+| [im Rahmen](https://dict.naver.com/dekodict/#/search?query=im%20) | ~의 범위 내에서, ~의 진행 중에, ~과 관련해서 |
+| [in der Regel](https://dict.naver.com/dekodict/#/search?query=in%20der%20Regel) | 일반적으로, 보통, 원칙적으로 |
+| [unter Umständen](https://dict.naver.com/dekodict/#/search?query=unter%20Umständen) (u.U.) | 경우에 따라서는 |
+| [einigermaßen](https://dict.naver.com/dekodict/#/search?query=einigermaßen) | 어느정도, 꽤, 상당히 |
+| [eigentlich](https://dict.naver.com/dekodict/#/search?query=eigentlich) | 사실은 |
+| [jedoch](https://dict.naver.com/dekodict/#/search?query=jedoch) | 그렇지만 |
+| [allerdings](https://dict.naver.com/dekodict/#/search?query=allerdings) | 물론, 틀림없이, 그러나, 그렇지만 |
+| [zwar](https://dict.naver.com/dekodict/#/search?query=zwar) | ~이긴 하지만 더 정확히 말하면 |
+| [laut](https://dict.naver.com/dekodict/#/search?query=laut) ~ | ~에 따르면 |
+| [indem](https://dict.naver.com/dekodict/#/search?query=indem) | ~ 하는 동안에, ~ 함으로써 |
 | [gewaltig](https://dict.naver.com/dekodict/#/search?query=gewaltig) | 1. adv. «구어» 몹시, 대단히, 심하게 |
 | [mittlerweile](https://dict.naver.com/dekodict/#/search?query=mittlerweile) | 1. adv. 그러는 사이에, 그 사이에 2. adv. 점차로 |
 | [herkömmlicherweise](https://dict.naver.com/dekodict/#/search?query=herkömmlicherweise) | 1. adv. 관습적으로, 관례에 따라 |
