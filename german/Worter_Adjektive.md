@@ -1,5 +1,128 @@
 | 단어 | 뜻 |
 | -- | -- |
+
+| geboren | 타고난 | 
+| hochrangig | 급수가 높은, 등급이 높은 | 
+| vorherig | 이전의 | 
+| bevollmächtigt | 전권을 위임받은 | 
+| formvollendet | 완벽한 형식의 | 
+| unterschreibene | | 
+| minderjährig | | 
+| volljährig | | 
+| amtlich | | 
+| gebürtig | 태생의, 출생의 | 
+| kinderlos | | 
+| verlobt | 약혼한 | 
+| übergewichtig | 과체중의, 비만의 | 
+| füllig | | 
+| vollschlank | | 
+| korpulent | 비만의 | 
+| kräftig | 힘있는, 강력한 | 
+| dünn | 얇은, 가는, 여윈 | 
+| mager | 여윈, 마른 | 
+| schlank | 가늘고 긴, 날씬한 | 
+| hager | 마른, 수척한 | 
+| dürr | 마른, 메마른 | 
+| schmutzig | 더러운, 지저분한 | 
+| schmuddelig | 더러운, 불결한 | 
+| zerknittert | 구겨진, 의기소침한 | 
+| modisch | 유행의, 현대적인 | 
+| riesig | 거대한, 엄청난 | 
+| zierlich | 사랑스러운, 귀여운, 우아한 | 
+| winzig | 아주 적은, 미세한 | 
+| jugendlich | 청년의, 젊은, 발랄한 | 
+| betagt | | 
+| blass | 창백한, 희미한 | 
+| glatt | 매끄러운, 순조로운 | 
+| muskulös | 근육질의 | 
+| breitschultrig | | 
+| mollig | 포동포동한 | 
+| faltig | 주름진 | 
+| gewelt | 곱슬곱슬한 | 
+| gelockt | 곱슬곱슬한 | 
+| schütter | 듬성듬성한 | 
+| fettig | 기름진, 지방의, 지방질의 | 
+| anspruchsvoll | 요구하는 바가 많은, 까다로운 | 
+| völlig | 완전한, 전적인, 온전한 | 
+| lustig | 즐거운, 재밌는, 활발한 | 
+| stolz | 자랑스러운, 당당한, 오만한 | 
+| locker | | 
+| peinlich | 고통스러운 | 
+| kurios | 호기심을 자아내는, 진기한 | 
+| schüchtern | 수줍어하는 | 
+| rechtmäßig | 합법적인 | 
+| nächtlich | 밤의, 야간의 | 
+| zumutbar | | 
+| abstehend | | 
+| kantig | 각진 | 
+| schmal | 폭이 좁은, 모자라는 | 
+| zufällig | 우연의, 고의가 아닌 | 
+| aufgeregt | 격앙된, 흥분한 | 
+| zahlreich | 다수의, 수많은 | 
+| erschwinglich | 조달할 수 있는 | 
+| begrenzt | 제한된, 한정된 | 
+| bequem | 쾌적한, 편리한, 게으른, 나태한, 쉬운, 간단한 | 
+| verbindlich | 1) 의무가 있는, 구속력 있는 2) 친절한, 상냥한 | 
+| eingeschränkt | 제한된, 속박된 | 
+| unerträglich | 견디기 어려운, 참을 수 없는 | 
+| grundsätzlich | 원칙적으로 | 
+| unwirksam | | 
+| ausgedient | 퇴역한 | 
+| bedeutsam | 의미심장한, 뜻깊은, 중요한 | 
+| dringend | 절박한, 긴급한, 응급한 | 
+| drohend | 임박한, 위협적인, 절박한 | 
+| grippal | 유행성의 | 
+| vollständig | 완전한, 전부의 | 
+| zulässig | 무방한, 허용된 | 
+| vorzeitig | 시기상조의 | 
+| haftbar | 법적 책임이 있는 | 
+| verwerflich | 물리쳐야 할, 비난받아 마땅한 | 
+| erledigt | 자리가 비어 있는, 해결된 | 
+| leichtgläubig | | 
+| tatenlos | | 
+| umfassend | 포괄적인, 광범위한 | 
+| außergewöhnlich | 비상한, 비범한, 이상한 | 
+| ansprechend | 마음을 끄는, 마음에 드는, 매력적인 | 
+| ablehnend | | 
+| selbstverständlich | 당연한, 자명한 | 
+| fördernd | 촉진시키는 | 
+| verantwortungsvoll | 책임감 있는 | 
+| diensthabend | 당직의 | 
+| ziehend | 당기는 | 
+| pochend | | 
+| stechend | 찌르는 | 
+| juckend | 가려운 | 
+| entzündet | 염증의, 불타는듯한 | 
+| überwiegend | 주로, 우세한 | 
+| intravenös | 정맥 내의 | 
+| nüchtern | 공복의 | 
+| bleich | 창백한 | 
+| ambulant | 이동하는, 순회하는 | 
+| stationär | 정지된, 고정된, 입원에 의한 | 
+| ärgerlich | 화가 난 | 
+| merkwürdig | 기묘한, 주의할만한 | 
+| erleichtert | 가벼워진 | 
+| gefährlich | 위험한, 위태로운 | 
+| ungefähr | 대략의, 개괄적인 | 
+| gutgelaunt | 기분이 좋은 | 
+| festgelegt | 고정된, 단호한 | 
+| geschickt | 숙련된, 능란한 | 
+| eng befreundet | 친하다 | 
+| ursprünglich | 원래, 기원의, 최초의 | 
+| aufrecht | 1) 곧추선, 똑바른, 수직의, 2) 솔직한, 강직한, 청렴한 | 
+| ordentlich | 정규의, 깔끔한, 본격적인 | 
+| einige | 몇몇의, 서넛의, 일부의 | 
+| lästig | 짐이 되는, 귀찮은, 성가신 | 
+| städtisch | 도시의, 도시풍의 | 
+| gängig | 유통되는, 잘 팔리는, 통용되는, 일상의, 잘 달리는 | 
+| entsprechend | 1) 상응하는, 일치하는, 알맞은, 2) 권한이 있는 | 
+| überlegen | 1) 능가하는, 월등한, 침착한, 분명한, 명백한, 2) (동사) 숙고하다, 고려하다 | 
+| eigene | 자기 자신의 (own) | 
+| wertvoll | 귀중한, 가치있는 | 
+| unabdingbar | 떼어낼 수 없는 | 
+| betreffend | 관계되는, 해당되는 | 
+| gebildet | 형성된, 교양있는 | 
+| geistig | 정신적인, 마음의 | 
 | gängig | 1. adj. 유통되는; 잘 팔리는 2. adj. 통용되는, 일상의 3. adj. «방언» 잘 달리는 |
 | lästig | 1. adj. 짐{부담}이 되는, 괴로운, 성가신; 불쾌한, 지루한 |
 | vorrangig | 1. adj. 우선의, 더 중요{긴급}한; 주로 |
