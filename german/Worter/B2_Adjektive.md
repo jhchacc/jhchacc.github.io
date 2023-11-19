@@ -54,8 +54,6 @@
 | [zumutbar](https://dict.naver.com/dekodict/#/search?query=zumutbar) | |
 | [abstehend](https://dict.naver.com/dekodict/#/search?query=abstehend) | |
 | [kantig](https://dict.naver.com/dekodict/#/search?query=kantig) | 각진 |
-| [dick](https://dict.naver.com/dekodict/#/search?query=dick) | 1. adj. 두꺼운, 굵은, 뚱뚱한 2. adj. «척도» 두께가 ∙∙∙인, 굵기가 ∙∙∙인 3. adj. 부푼, 부은 |
-| [schmal](https://dict.naver.com/dekodict/#/search?query=schmal) | 1. adj. 2. adj. (폭이) 좁은, 가느다란 3. adj. 얇은, 날씬한 |
 | [zufällig](https://dict.naver.com/dekodict/#/search?query=zufällig) | 우연의, 고의가 아닌 |
 | [aufgeregt](https://dict.naver.com/dekodict/#/search?query=aufgeregt) | 격앙된, 흥분한 |
 | [zahlreich](https://dict.naver.com/dekodict/#/search?query=zahlreich) | 다수의, 수많은 |
@@ -123,6 +121,9 @@
 | [betreffend](https://dict.naver.com/dekodict/#/search?query=betreffend) | 관계되는, 해당되는 |
 | [gebildet](https://dict.naver.com/dekodict/#/search?query=gebildet) | 형성된, 교양있는 |
 | [geistig](https://dict.naver.com/dekodict/#/search?query=geistig) | 정신적인, 마음의 |
+| [dick](https://dict.naver.com/dekodict/#/search?query=dick) | 1. adj. 두꺼운, 굵은, 뚱뚱한 2. adj. «척도» 두께가 ∙∙∙인, 굵기가 ∙∙∙인 3. adj. 부푼, 부은 |
+| [schmal](https://dict.naver.com/dekodict/#/search?query=schmal) | 1. adj. 2. adj. (폭이) 좁은, 가느다란 3. adj. 얇은, 날씬한 |
+| [krumm](https://dict.naver.com/dekodict/#/search?query=krumm) | 1. adj. 굽은, 굴곡의, 만곡의; 비틀린; 파상(波狀)의 2. adj. «비유» 일그러진; 부정(직)한, 사악한 3. adj. «동사와 함께» |
 | [gängig](https://dict.naver.com/dekodict/#/search?query=gängig) | 1. adj. 유통되는; 잘 팔리는 2. adj. 통용되는, 일상의 3. adj. «방언» 잘 달리는 |
 | [lästig](https://dict.naver.com/dekodict/#/search?query=lästig) | 1. adj. 짐{부담}이 되는, 괴로운, 성가신; 불쾌한, 지루한 |
 | [vorrangig](https://dict.naver.com/dekodict/#/search?query=vorrangig) | 1. adj. 우선의, 더 중요{긴급}한; 주로 |
