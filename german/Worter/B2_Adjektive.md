@@ -223,7 +223,6 @@
 | [selbstverständlich](https://dict.naver.com/dekodict/#/search?query=selbstverständlich) | 1. 자명한, 당연한, 뻔한 2. 거리낌 없는, 주저 없는, 자연스러운 3. 당연히, 물론 |
 | [vermeintlich](https://dict.naver.com/dekodict/#/search?query=vermeintlich) | 1. adj. (잘못) 추정된; 허위의, 자칭하는, 소위 |
 | [unabänderlich](https://dict.naver.com/dekodict/#/search?query=unabänderlich) | 1. adj. 변경 불가능한, 변경할 수 없는 |
-| [Ausschau](https://dict.naver.com/dekodict/#/search?query=Ausschau) | 1. f. «다음 용법으로만» nach jm.{et.3} Ausschau halten 누구를{무엇을} 고대하며 바라보다. |
 | [gewissenhaft](https://dict.naver.com/dekodict/#/search?query=gewissenhaft) | 1. adj. 양심적인, 성실한, 믿을 만한 |
 | [einschlägig](https://dict.naver.com/dekodict/#/search?query=einschlägig) | 1. adj. 해당{관계}되는 2. adj. [법률] einschlägig vorbestraft 동일 범죄의 전과가 있는. |
 | [weit](https://dict.naver.com/dekodict/#/search?query=weit) | 1. adj./adv. 넓은, 광활한; 넓게 트인; 풍성한, 꽉 끼지 않는 2. adj./adv. 3. adj./adv. 먼길의, 떨어진; 먼, 아득한 |
@@ -233,7 +232,6 @@
 | [wert](https://dict.naver.com/dekodict/#/search?query=wert) | 1. adj. «4격 목적어와 함께»∙∙∙의 가치가 있는, ∙∙∙의 값이 나가는 2. adj. «2격, 드물게 4격 목적어와 함께»∙∙∙의 가치가 있는, ∙∙∙에 상당하는, ∙∙∙할 만한 3. adj. 값진, 귀한, 소중한; 경애{친애}하는 |
 | [ausgedient](https://dict.naver.com/dekodict/#/search?query=ausgedient) | 1. p.p. ↑ ausdienen. 2. p.a. 퇴역한, 퇴직한; 낡은, 노후한. |
 | [vielfältig](https://dict.naver.com/dekodict/#/search?query=vielfältig) | 1. 다종(多種)의, 다양한. |
-| [Sammelleidenschaft](https://dict.naver.com/dekodict/#/search?query=Sammelleidenschaft) | 1. f. 수집 열정. |
 | [vorherig](https://dict.naver.com/dekodict/#/search?query=vorherig) | 1. adj. 전의, 이전의 2. adj. 사전의 |
 | [schmudd(e)lig](https://dict.naver.com/dekodict/#/search?query=schmudd(e)lig) | 1. adj. 더러운, 불결한. |
 | [erschwinglich](https://dict.naver.com/dekodict/#/search?query=erschwinglich) | 1. adj. 조달{지급}할 수 있는. |
