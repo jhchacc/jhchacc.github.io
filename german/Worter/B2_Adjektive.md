@@ -30,7 +30,7 @@
 | [zierlich](https://dict.naver.com/dekodict/#/search?query=zierlich) | 사랑스러운, 귀여운, 우아한 |
 | [winzig](https://dict.naver.com/dekodict/#/search?query=winzig) | 아주 적은, 미세한 |
 | [jugendlich](https://dict.naver.com/dekodict/#/search?query=jugendlich) | 청년의, 젊은, 발랄한 |
-| [betagt](https://dict.naver.com/dekodict/#/search?query=betagt) | |
+| [betagt](https://dict.naver.com/dekodict/#/search?query=betagt) | 나이 많은, 연로한 |
 | [blass](https://dict.naver.com/dekodict/#/search?query=blass) | 창백한, 희미한 |
 | [glatt](https://dict.naver.com/dekodict/#/search?query=glatt) | 매끄러운, 순조로운 |
 | [muskulös](https://dict.naver.com/dekodict/#/search?query=muskulös) | 근육질의 |
