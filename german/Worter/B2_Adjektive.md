@@ -23,7 +23,6 @@
 | [hager](https://dict.naver.com/dekodict/#/search?query=hager) | 마른, 수척한 |
 | [dürr](https://dict.naver.com/dekodict/#/search?query=dürr) | 마른, 메마른 |
 | [schmutzig](https://dict.naver.com/dekodict/#/search?query=schmutzig) | 더러운, 지저분한 |
-| [schmuddelig](https://dict.naver.com/dekodict/#/search?query=schmuddelig) | 더러운, 불결한 |
 | [zerknittert](https://dict.naver.com/dekodict/#/search?query=zerknittert) | 구겨진, 의기소침한 |
 | [modisch](https://dict.naver.com/dekodict/#/search?query=modisch) | 유행의, 현대적인 |
 | [riesig](https://dict.naver.com/dekodict/#/search?query=riesig) | 거대한, 엄청난 |
@@ -236,7 +235,7 @@
 | [vielfältig](https://dict.naver.com/dekodict/#/search?query=vielfältig) | 1. 다종(多種)의, 다양한. |
 | [Sammelleidenschaft](https://dict.naver.com/dekodict/#/search?query=Sammelleidenschaft) | 1. f. 수집 열정. |
 | [vorherig](https://dict.naver.com/dekodict/#/search?query=vorherig) | 1. adj. 전의, 이전의 2. adj. 사전의 |
-| [schmudd](https://dict.naver.com/dekodict/#/search?query=schmudd) |e)lig, 1. adj. 더러운, 불결한. |
+| [schmudd(e)lig](https://dict.naver.com/dekodict/#/search?query=schmudd(e)lig) | 1. adj. 더러운, 불결한. |
 | [erschwinglich](https://dict.naver.com/dekodict/#/search?query=erschwinglich) | 1. adj. 조달{지급}할 수 있는. |
 | [schmutzig](https://dict.naver.com/dekodict/#/search?query=schmutzig) | 1. adj. 더러운, 때낀, 불결한; 누추한; (색이) 흐린 2. adj. «비유» 3. adj. 치사한, 인색한. |
 | [bequem](https://dict.naver.com/dekodict/#/search?query=bequem) | 1. adj. 쾌적한, 편안한 2. adj. 게으른; 나태한 3. adj. 쉬운, 간단한 |
