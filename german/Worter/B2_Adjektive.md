@@ -54,7 +54,8 @@
 | [zumutbar](https://dict.naver.com/dekodict/#/search?query=zumutbar) | |
 | [abstehend](https://dict.naver.com/dekodict/#/search?query=abstehend) | |
 | [kantig](https://dict.naver.com/dekodict/#/search?query=kantig) | 각진 |
-| [schmal](https://dict.naver.com/dekodict/#/search?query=schmal) | 폭이 좁은, 모자라는 |
+| [dick](https://dict.naver.com/dekodict/#/search?query=dick) | 1. adj. 두꺼운, 굵은, 뚱뚱한 2. adj. «척도» 두께가 ∙∙∙인, 굵기가 ∙∙∙인 3. adj. 부푼, 부은 |
+| [schmal](https://dict.naver.com/dekodict/#/search?query=schmal) | 1. adj. 2. adj. (폭이) 좁은, 가느다란 3. adj. 얇은, 날씬한 |
 | [zufällig](https://dict.naver.com/dekodict/#/search?query=zufällig) | 우연의, 고의가 아닌 |
 | [aufgeregt](https://dict.naver.com/dekodict/#/search?query=aufgeregt) | 격앙된, 흥분한 |
 | [zahlreich](https://dict.naver.com/dekodict/#/search?query=zahlreich) | 다수의, 수많은 |
