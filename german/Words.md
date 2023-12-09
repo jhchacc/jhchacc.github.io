@@ -8,6 +8,11 @@
 
 [B2 Verben](./Worter/B2_Verben.md)
 
+[B2 Normen](./Worter/B2_Normen.md)
+
+[B2 Phrase](./Worter/B2_Phrase.md)
+
+
 ## Verben
 
 <table><td>
