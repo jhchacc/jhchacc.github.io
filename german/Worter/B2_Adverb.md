@@ -43,3 +43,16 @@
 | [sonst](https://dict.naver.com/dekodict/#/search?query=sonst) | 1. adv. 그렇지 않으면 2. adv. 그 외에, 그 밖에, 게다가, 더욱 3. adv. |
 | [sozusagen](https://dict.naver.com/dekodict/#/search?query=sozusagen) | 1. adv. 말하자면, 소위; ∙∙∙라고 말할 수 있는 |
 | [meist](https://dict.naver.com/dekodict/#/search?query=meist) | 1. adv. 가장 많이, 주로, 대개 |
+| [darum](https://dict.naver.com/dekodict/#/search?range=all&query=darum) | 1. adv. 그 주변{부근}에 2. adv. 그것에 관하여, 그 일로 3. adv. «[dá:rʊm]으로만» 그 때문에, 그런 까닭에 |
+| [sogar](https://dict.naver.com/dekodict/#/search?range=all&query=sogar) | 1. adv. 더군다나, 게다가, 그 밖에; 심지어 2. adv. 그뿐 아니라, 더욱이 |
+| [inzwischen](https://dict.naver.com/dekodict/#/search?range=all&query=inzwischen) | 1. adv. 그 동안에, 그 사이에 |
+| [zugleich](https://dict.naver.com/dekodict/#/search?range=all&query=zugleich) | 1. adv. 동시에; 함께 2. adv. 마찬가지로, 또한, 역시 |
+| [gleichermaßen](https://dict.naver.com/dekodict/#/search?range=all&query=gleichermaßen) | 1. adv. 같게, 같은 정도로 |
+| [rundweg](https://dict.naver.com/dekodict/#/search?range=all&query=rundweg) | 1. adv. 단호히, 딱 잘라. |
+| [rückwärts](https://dict.naver.com/dekodict/#/search?range=all&query=rückwärts) | 1. adv. (a) 뒤로, 뒤를 향해서; rückwärts gehen 뒤로 가다, 후퇴{역행}하다; einen Salto rückwärts machen 뒤로 공중회전하다. (b) 거꾸로, 뒷면을 앞으로 해서; das Auto rückwärts in die Garage fahren 차를 후진으로 차고에 넣다. 2. adv. 뒤로, 뒤를 향해서 3. adv. 거꾸로, 뒷면을 앞으로 해서 |
+| [vorwärts](https://dict.naver.com/dekodict/#/search?range=all&query=vorwärts) | 1. adv. 앞으로, 전방으로 2. adv. 앞쪽으로 향하여 3. adv. |
+| [vornherein](https://dict.naver.com/dekodict/#/search?range=all&query=vornherein) | 1. adv. 처음부터; 원래부터; 선천적으로 2. adv. |
+| [ebenso](https://dict.naver.com/dekodict/#/search?range=all&query=ebenso) | 1. adv. 아주 똑같이, 똑같은 정도로 |
+| [dahinten](https://dict.naver.com/dekodict/#/search?range=all&query=dahinten) | 1. adv. 그 뒤에. |
+| [hingegen](https://dict.naver.com/dekodict/#/search?range=all&query=hingegen) | 1. adv. 이와 반대로 |
+| [bislang](https://dict.naver.com/dekodict/#/search?range=all&query=bislang) | 1. adv. 여태까지, 지금까지 |
