@@ -38,7 +38,7 @@
 | [bemühen](https://dict.naver.com/dekodict/#/search?range=all&query=bemühen) / bemühen sich | 수고/폐를 끼치다 / (재귀) 노력하다 |
 | [zulassen](https://dict.naver.com/dekodict/#/search?range=all&query=zulassen) | 1) 허용하다, 방임하다, 내버려두다 2) (문을) 닫아 두다 | |
 | [helfen](https://dict.naver.com/dekodict/#/search?range=all&query=helfen) sich3 |  |
-| [ängstiegen](https://dict.naver.com/dekodict/#/search?range=all&query=ängstiegen) / ängstiegen sich |  |
+| [ängstigen](https://dict.naver.com/dekodict/#/search?range=all&query=ängstigen) / ängstigen sich |  |
 | [miteinander](https://dict.naver.com/dekodict/#/search?range=all&query=miteinander) auskommen |  |
 | [schätzen](https://dict.naver.com/dekodict/#/search?range=all&query=schätzen) | 1) 평가하다, 어림잡다, 라고 생각하다 2) 소중히 여기다, 존중하다, 가치를 인정하다 | |
 | [tragen](https://dict.naver.com/dekodict/#/search?range=all&query=tragen) | 1. t. 2. t. 나르다, 운반하다, 가지고 가다, 지다; 일정 구간 거리에) 이르다, 달하다 3. t. (떠)받치다, 지탱하다, 싣고 있다 | |
