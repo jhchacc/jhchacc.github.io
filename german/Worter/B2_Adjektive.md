@@ -293,7 +293,7 @@
 | [ungefährlich](https://dict.naver.com/dekodict/#/search?range=all&query=ungefährlich) | 1. adj. 위험하지 않은; 위태롭지 않은 |
 | [unbestritten](https://dict.naver.com/dekodict/#/search?range=all&query=unbestritten) | 1. adj. 반박할 수 없는, 누구나 인정하는, 확실한 |
 | [eigentlich](https://dict.naver.com/dekodict/#/search?range=all&query=eigentlich) | 1. adj. 본래의, 원래의, 고유한; 엄밀한; 참된, 실제의 2. adv. 원래; 엄밀히, 참으로, 실제로 3. adv. (특히 의문문에서) 도대체, 그런데 |
-| [zitt](https://dict.naver.com/dekodict/#/search?range=all&query=)zitt(e)rig | 1. adj. (노쇠•신경쇠약으로) 떠는, 떨리는 |
+| [zitt(e)rig](https://dict.naver.com/dekodict/#/search?range=all&query=zittrig) | 1. adj. (노쇠•신경쇠약으로) 떠는, 떨리는 |
 | [bewusst](https://dict.naver.com/dekodict/#/search?range=all&query=bewusst) | 1. adj. 알고 있는, 의식하는 2. adj. 의도적인, 고의의 3. adj. 언급한, 알려진 |
 | [erheblich](https://dict.naver.com/dekodict/#/search?range=all&query=erheblich) | 1. adj. 중요한, 중대한, 두드러진, 현저한; 유력한 |
 | [ausschließlich](https://dict.naver.com/dekodict/#/search?range=all&query=ausschließlich) | 1. adj. 배타적인, 독점적인; 전유(專有)의 2. adv. 오로지, 오직, 독점적으로 3. prp.2 (∙∙∙을) 제외하고, 계산에 넣지 않고 |
