@@ -402,7 +402,7 @@
 | [lenken](https://dict.naver.com/dekodict/#/search?range=all&query=lenken) | 1. t. 2. t. 조종하다, 몰다 3. t. 유도하다 |
 | [aufteilen](https://dict.naver.com/dekodict/#/search?range=all&query=aufteilen) | 1. t. (남김 없이) 분배하다, 배분하다 2. t. 분할{분류}하다 |
 | [umrechnen](https://dict.naver.com/dekodict/#/search?range=all&query=umrechnen) | 1. t. [상업]환산하다; 환전하다 |
-| [ạn|hängen](https://dict.naver.com/dekodict/#/entry/deko/ef5b80e9b15249e292c83cc7ae08a671) 1 | 1. i. jm.{et.3} anhängen 누구에게{무엇에} 바싹 붙어 있다 2. i. «아어»jm.{et.3} anhängen 누구에게{무엇에} 집착하다 3. i. 수화기를 놓다, 전화를 끊다. |
+| [ạn\|hängen](https://dict.naver.com/dekodict/#/entry/deko/ef5b80e9b15249e292c83cc7ae08a671) 1 | 1. i. jm.{et.3} anhängen 누구에게{무엇에} 바싹 붙어 있다 2. i. «아어»jm.{et.3} anhängen 누구에게{무엇에} 집착하다 3. i. 수화기를 놓다, 전화를 끊다. |
 | [erneuern](https://dict.naver.com/dekodict/#/search?range=all&query=erneuern) | 1. t. (손상된 것을) 회복하다, 복구하다, 수선하다 2. t. (낡은 것을) 교체하다 3. t. 쇄신하다; 갱신하다 |
 | [spekulieren](https://dict.naver.com/dekodict/#/search?range=all&query=spekulieren) | 1. i. 투기하다 2. i. [철학] 사변하다, 사색하다; 깊이 생각하다; 이러쿵저러쿵 추측하다 3. i. «구어» 눈독을 들이다 |
 | [eingehen](https://dict.naver.com/dekodict/#/search?range=all&query=eingehen) | 1. i. 들어가다, 입장하다 2. i. «구어»das geht ihm glatt ein a) 그는 기꺼이 그것을 받아들인다, b) 쉽게 이해한다 3. i. (편지가) 도착하다, 손에 들어오다 |
