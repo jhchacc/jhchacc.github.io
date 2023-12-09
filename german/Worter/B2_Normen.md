@@ -168,7 +168,7 @@
 | [die Zeitdauer](https://dict.naver.com/dekodict/#/search?range=all&query=Zeitdauer) | 1. f. 시간의 지속{길이}, 시간, 기간. |
 | [die Erwerbstätigkeit](https://dict.naver.com/dekodict/#/search?range=all&query=Erwerbstätigkeit) | 1. f. 근로; 취업; 영리 행위, 생업. |
 | [die Einhaltung](https://dict.naver.com/dekodict/#/search?range=all&query=Einhaltung) | 1. f. 엄수, 준수 |
-| [die die](https://dict.naver.com/dekodict/#/search?range=all&query=die) Kernzeit | 1. f. (core time) 일하는 시간을 사원의 자율에 맡기는 근무 제도에서, 누구나 공통으로 근무하여야 하는 시간대. 보통 오전 10시부터 12시까지와 오후 3시부터 4시까지 정도의 3시간이 이에 해당된다. |
+| [die Kernzeit](https://dict.naver.com/dekodict/#/search?range=all&query=Kernzeit)  | 1. f. (core time) 일하는 시간을 사원의 자율에 맡기는 근무 제도에서, 누구나 공통으로 근무하여야 하는 시간대. 보통 오전 10시부터 12시까지와 오후 3시부터 4시까지 정도의 3시간이 이에 해당된다. |
 | [die Schicht](https://dict.naver.com/dekodict/#/search?range=all&query=Schicht) | 1. f. 층, 켜; [지질] 지층; 겉껍질, 외피; 막(膜) 2. f. 사회 계층 3. f. 교대 근무{작업} 시간 |
 | [die Orientierung](https://dict.naver.com/dekodict/#/search?range=all&query=Orientierung) | 1. f. 방향 설정, 방향 감각 2. f. 안내, 소개; 모범{기준}으로 함; 입장, 태도 3. f. [종교] 제단이 동쪽으로 향하도록 교회당을 짓기 |
 | [die Diskretion](https://dict.naver.com/dekodict/#/search?range=all&query=Diskretion) | 1. f. 분별, 신중 2. f. 비밀 엄수, 보안 |
