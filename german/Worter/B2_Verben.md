@@ -329,7 +329,6 @@
 | [aufschauen](https://dict.naver.com/dekodict/#/search?range=all&query=aufschauen) | 1. i. 쳐다보다 2. i. 주시{주의}하다 3. i. zu jm. aufschauen«비유•구어» 누구를 우러러보다, 모범으로 삼다 |
 | [schauen](https://dict.naver.com/dekodict/#/search?range=all&query=schauen) | 1. i.(+haben)/t. 보다, 바라보다 2. i.(+haben)/t. ∙∙∙한 눈매{눈초리}를 하다 3. i.(+haben)/t. (obd.) 돌보다 |
 | [leiden](https://dict.naver.com/dekodict/#/search?range=all&query=leiden) | 1. t. «강변화» 2. t. leiden können{mögen} 좋아하다 3. t. 견디다, 참다 |
-| [anmaßend](https://dict.naver.com/dekodict/#/search?range=all&query=anmaßend) | 1. p.a. 건방진, 외람된, 불손한 |
 | [beobachten](https://dict.naver.com/dekodict/#/search?range=all&query=beobachten) | 1. t. 관찰하다, 주시하다 2. t. 인지하다, 확인하다, 알아채다 3. t. 주의하다, 감시하다; (법률•규칙을) 준수하다 |
 | [verbringen](https://dict.naver.com/dekodict/#/search?range=all&query=verbringen) | 1. t. (시간을) 보내다 2. t. (일정 기간 동안) 머물다 3. t. «방언» 낭비하다, 탕진하다 |
 | [gestalten](https://dict.naver.com/dekodict/#/search?range=all&query=gestalten) | 1. t. 형성하다, 형상화하다, 형태를 부여하다, 구체화하다 2. t. (공간을) 꾸미다, 장식하다; (행사를) 조직하다, 구성하다; (삶•여가를) 설계하다, 계획하다 3. refl. (어떤 형태{상태}로) 되다, 발전하다 |
@@ -346,7 +345,6 @@
 | [entstehen](https://dict.naver.com/dekodict/#/search?range=all&query=entstehen) | 1. i. 생기다, 생성하다, 일어나다; 발생하다 2. i. [[화학]] (가스 따위가) 발생하다 |
 | [anhängen](https://dict.naver.com/dekodict/#/search?range=all&query=anhängen) 2 | 1. t. an et. anhängen 무엇에 걸다{매달다}; [원예] 접지(椄枝)하다, 접붙이다 2. t. 부가하다, 덧붙이다 3. t. 누구에게 무엇을 뒤집어씌우다, 전가하다 |
 | [hergeben](https://dict.naver.com/dekodict/#/search?range=all&query=hergeben) | 1. t. 내어 주다, 내놓다; 공급하다; 돌려주다, 양도하다, 포기하다 2. t. 소용이 있다 3. refl. 무엇(미심쩍은 일)에 관여하다, 협력하다 |
-| [andauernd](https://dict.naver.com/dekodict/#/search?range=all&query=andauernd) | 1. p.a. 지속적인, 장기적인. |
 | [zerrütten](https://dict.naver.com/dekodict/#/search?range=all&query=zerrütten) | 1. t. (정신을) 혼란스럽게 하다; (정신적으로) 해를 입히다; 파괴하다 2. p.a. zerrüttet ↑ zerrüttet. |
 | [anlegen](https://dict.naver.com/dekodict/#/search?range=all&query=anlegen) | 1. t. 2. t. ∙∙∙에 갖다 대다, 놓다, 붙이다 3. t. 총으로 겨누다 |
 | [abraten](https://dict.naver.com/dekodict/#/search?range=all&query=abraten) | 1. t. jm. et. abraten 누구에게 무엇을 하지 않도록 충고하다(↔ zuraten). 2. t. jm. seine Gedanken abraten 누구의 생각을 추측하다. 3. t. et. mit jm. abraten 무엇을 누구와 협정{합의}하다. |
@@ -395,10 +393,8 @@
 | [ahnden](https://dict.naver.com/dekodict/#/search?range=all&query=ahnden) 1 | 1. t. 복수하다; 벌하다; 비난{힐책}하다 |
 | [Verstoß](https://dict.naver.com/dekodict/#/search?range=all&query=Verstoß) | 1. 저촉 위반 과실 |
 | [verurteilen](https://dict.naver.com/dekodict/#/search?range=all&query=verurteilen) | 1. t. (누구에게) 유죄 판결을 내리다, 형을 선고하다 2. t. 비난하다, 반대하다 |
-| [Angeklagte](https://dict.naver.com/dekodict/#/search?range=all&query=Angeklagte) | 1. [법률] 피고(인) |
 | [tragen](https://dict.naver.com/dekodict/#/search?range=all&query=tragen) | 1. t. 2. t. 나르다, 운반하다, 가지고 가다, 지다; 일정 구간 거리에) 이르다, 달하다 3. t. (떠)받치다, 지탱하다, 싣고 있다 |
 | [durchsetzen](https://dict.naver.com/dekodict/#/search?range=all&query=durchsetzen) | 1. t. 끝까지 해내다, 관철시키다; (법률을) 실시하다; (의안을) 통과시키다 2. t. [건축] 벽으로 칸막이하다 3. t. [광산] (빻아서 부순 광석을) 체로 쳐서 가려내다 |
-| [geltend](https://dict.naver.com/dekodict/#/search?range=all&query=geltend) | 1. p.a. 유효한, 통용되는, 현행의; 중요한 |
 | [lenken](https://dict.naver.com/dekodict/#/search?range=all&query=lenken) | 1. t. 2. t. 조종하다, 몰다 3. t. 유도하다 |
 | [aufteilen](https://dict.naver.com/dekodict/#/search?range=all&query=aufteilen) | 1. t. (남김 없이) 분배하다, 배분하다 2. t. 분할{분류}하다 |
 | [umrechnen](https://dict.naver.com/dekodict/#/search?range=all&query=umrechnen) | 1. t. [상업]환산하다; 환전하다 |
@@ -416,14 +412,12 @@
 | [engagieren](https://dict.naver.com/dekodict/#/search?range=all&query=engagieren) | 1. t. «고어» 춤을 청하다 2. t. 고용하다, 모집하다 3. refl. 약속하다, 계약하다, 고용되다; 참여하다, 관여하다; 진력하다 |
 | [freisetzen](https://dict.naver.com/dekodict/#/search?range=all&query=freisetzen) | 1. t. [물리•화학] 분리{방출}하다 2. t. [경제] (다른 일에 투입하기 위해 기존 업무에서) 벗어나게 하다;«은폐»해고하다 |
 | [wegfallen](https://dict.naver.com/dekodict/#/search?range=all&query=wegfallen) | 1. i. 떨어져 나가다, 탈락하다 2. i. 취소되다, 없어지다 |
-| [rasend](https://dict.naver.com/dekodict/#/search?range=all&query=rasend) | 1. p.a. 미쳐 날뛰는, 미친 듯한, 미칠 듯한, 사나운, 맹렬한 2. p.a. 3. p.a. 극렬한, 엄청난, 대단한 |
 | [betrachten](https://dict.naver.com/dekodict/#/search?range=all&query=betrachten) | 1. t. 눈여겨보다, 관찰하다; 음미하다 2. t. 숙고하다 3. t. 무엇(A) 을 무엇(B) 이라고 여기다, 간주하다 |
 | [hinnehmen](https://dict.naver.com/dekodict/#/search?range=all&query=hinnehmen) | 1. t. 받아들이다, 인수하다 2. t. (모욕을) 참고 견디다; 감수하다 3. t. jn. mit hinnehmen 누구를 (∙∙∙로) 데리고 가다 |
 | [verursachen](https://dict.naver.com/dekodict/#/search?range=all&query=verursachen) | 1. t. 야기하다, 초래하다 |
 | [anrichten](https://dict.naver.com/dekodict/#/search?range=all&query=anrichten) | 1. t./i. 2. t./i. (음식을) 차리다 3. t./i. [요리] 첨가하여 (음식을) 조리하다. |
 | [schmilzen](https://dict.naver.com/dekodict/#/search?range=all&query=schmilzen) | 1. 녹다, 녹아내리다 |
 | [vermehren](https://dict.naver.com/dekodict/#/search?range=all&query=vermehren) | 1. t. 늘리다, 증가시키다, 증대시키다 2. t. 3. refl. 증가하다, 증대하다, 늘다 |
-| [Klimaerwärmung](https://dict.naver.com/dekodict/#/search?range=all&query=Klimaerwärmung) | 1. (die) 지구 온난화(climate warming) 2. f. 지구 온난화 |
 | [austreten](https://dict.naver.com/dekodict/#/search?range=all&query=austreten) | 1. i. 2. i. 걸어 나가다; (대열 등에서) 벗어나다, 이탈하다 3. i. «구어» 용변 보러 가다 |
 | [spucken](https://dict.naver.com/dekodict/#/search?range=all&query=spucken) | 1. i. 침을 뱉다 2. i. «방언» 토하다, 게우다 3. t. 토하다, 뱉다 |
 | [verschütten](https://dict.naver.com/dekodict/#/search?range=all&query=verschütten) | 1. t. 잘못 붓다, 흘리다 2. t. 파묻다, (흙모래로) 덮다 3. t. (흙•모래 따위로) 메우다. |
@@ -431,14 +425,11 @@
 | [auslösen](https://dict.naver.com/dekodict/#/search?range=all&query=auslösen) | 1. t. 작동시키다; «비유» (감정 따위를) 불러일으키다, 환기하다, 발생시키다 2. t. (저당물 따위를) 되찾다; (어음을) 회수하다; (포로를) 교환하다; (우체국에서 소포 따위를) 찾다 3. t. «남독‧오스» 발골하다, 벗겨 내다, 떼어 내다 |
 | [vordringen](https://dict.naver.com/dekodict/#/search?range=all&query=vordringen) | 1. i. 전진{돌진}하다 2. i. «비유»(종교•유행 등이) 퍼지다, 유포되다, 전파되다. 3. refl. sich vordringen ↑ vordrägen((II)). |
 | [erzeugen](https://dict.naver.com/dekodict/#/search?range=all&query=erzeugen) | 1. t. 낳다 2. t. (특히 농업에서) 생산하다, 산출하다 3. t. 만들어 내다, 제작하다, 제조하다; 창작하다 |
-| [Windräder](https://dict.naver.com/dekodict/#/search?range=all&query=Windräder) | 1. 풍력 발전기 ; 바람개비 |
 | [mahlen](https://dict.naver.com/dekodict/#/search?range=all&query=mahlen) | 1. t./i. (곡식을) 갈다, 빻다; (모래 따위를) 갈아 분말로 만들다; (이로 음식물을 잘게) 바수다 |
 | [prägen](https://dict.naver.com/dekodict/#/search?range=all&query=prägen) | 1. t. 무늬 또는 인장(印章)을 누르다, 압인하다, 각인하다; 주조하다 2. t. «비유» 인상을 남기다, 감명을 주다, 명심시키다 3. t. (영향을 끼쳐) 특징짓다, 특징을 부여하다 |
 | [stören](https://dict.naver.com/dekodict/#/search?range=all&query=stören) 1 | 1. t. 방해하다, 폐를 끼치다; 성가시게 하다 2. t. 교란하다, 저지하다, 방해하다 3. t. 불쾌하게 하다, 누구의 마음에 걸리다 |
 | [vergrößern](https://dict.naver.com/dekodict/#/search?range=all&query=vergrößern) | 1. t. 크게 하다; 증대하다; 확대{확장}하다; 과장하다 2. refl. 커지다, 증대{확대}되다 3. i. 크게 보이게 하다 |
 | [ausbreiten](https://dict.naver.com/dekodict/#/search?range=all&query=ausbreiten) | 1. t. 2. t. 늘어놓다, 전시{진열}하다 3. t. 펴다, 펼쳐 놓다 |
-| [Wiesen](https://dict.naver.com/dekodict/#/search?range=all&query=Wiesen) | 1. pl. 초원, 풀밭, 목초지, 목장 |
-| [blühend](https://dict.naver.com/dekodict/#/search?range=all&query=blühend) | 1. p.a. «비유» 생기발랄한, 한창인 2. p.a. 과장된, 터무니없는 |
 | [entgiften](https://dict.naver.com/dekodict/#/search?range=all&query=entgiften) | 1. t. 해독{소독}하다 |
 | [vergiften](https://dict.naver.com/dekodict/#/search?range=all&query=vergiften) | 1. t. 2. t. 독을 넣다{바르다} 3. t. 독살하다 |
 | [beitragen](https://dict.naver.com/dekodict/#/search?range=all&query=beitragen) | 1. t./i. 기여하다, 공헌하다, 한몫하다, 거들다 |
@@ -457,7 +448,6 @@
 | [siedeln](https://dict.naver.com/dekodict/#/search?range=all&query=siedeln) | 1. i. 정주{이주}하다 2. t. 이주시키다, 식민하다. 3. refl. sich siedeln 정주{이주}하다. |
 | [abwägen](https://dict.naver.com/dekodict/#/entry/deko/eb0b7e3e07844db79578a16ec4caee2a) | 1. t. 저울질하다, (무게를) 달다. 2. t. «비유» 고려하다 3. t. 수준기(水準器) 로 재다. |
 | [erleben](https://dict.naver.com/dekodict/#/search?range=all&query=erleben) | 1. t. 겪다, 체험하다, 경험하다 2. t. 겪어서 깨우치다{알다}, 체득하다, 감득하다 3. t. (특정한 시간, 시기를) 함께 체험하다, 산 증인이 되다 |
-| [zwingend](https://dict.naver.com/dekodict/#/search?range=all&query=zwingend) | 1. p.a. 강제적인, 불가항력적인; 부득이한; 확신할 만한, 이론의 여지가 없는 |
 | [jagen](https://dict.naver.com/dekodict/#/search?range=all&query=jagen) | 1. t. 2. t. 몰다, 쫓다; 쫓아 버리다 3. t. 찌르다, 쏘다 |
 | [überwinden](https://dict.naver.com/dekodict/#/search?range=all&query=überwinden) | 1. t. «구식•아어» (적을) 이기다, 정복하다 2. t. (어려움, 난관 등을) 극복하다, 이겨 내다 3. t. (마음의 짐, 부담 등을) 감당해 내다, 극복하다 |
 | [bewundern](https://dict.naver.com/dekodict/#/search?range=all&query=bewundern) | 1. t. 경탄하다, 찬탄하다 |
@@ -494,7 +484,6 @@
 | [veranstalten](https://dict.naver.com/dekodict/#/search?range=all&query=veranstalten) | 1. t. 개최하다, 열다, 실행하다 2. t. «구어» (행)하다 |
 | [bewirken](https://dict.naver.com/dekodict/#/search?range=all&query=bewirken) | 1. t. 야기하다, 생기게 하다 |
 | [behalten](https://dict.naver.com/dekodict/#/search?range=all&query=behalten) 1 | 1. t. 소지하다, 보유하다, 지니다 2. t. 간직하다, 두다 3. t. 유지하다{지속하다} |
-| [ablehnend](https://dict.naver.com/dekodict/#/search?range=all&query=ablehnend) | 1. p.a. 거부{거절}하는, 가까이 오지 못하게 하는. |
 | [vertiefen](https://dict.naver.com/dekodict/#/search?range=all&query=vertiefen) | 1. t. 2. t. 깊게 하다, 파 내리다{뚫다} 3. t. (지식•인상 등을) 깊게 하다 |
 | [begrenzen](https://dict.naver.com/dekodict/#/search?range=all&query=begrenzen) | 1. t. 구획하다, 경계를 정하다, 테두리를 두르다 2. t. 한정하다, 국한하다; 제한하다 3. p.a. begrenzt ↑ begrenzt |
 | [schulen](https://dict.naver.com/dekodict/#/search?range=all&query=schulen) | 1. t. 교육{훈련•단련}하다 2. t. (말을) 조련하다. 3. t. «목적어없이» (obd.) |
@@ -506,7 +495,6 @@
 | [vermissen](https://dict.naver.com/dekodict/#/search?range=all&query=vermissen) | 1. t. 없어서 안타까워하다 2. t. 3. t. 없어서 안타까워하다 |
 | [stoßen](https://dict.naver.com/dekodict/#/search?range=all&query=stoßen) | 1. t. 2. t. 3. t. 찌르다; 밀다, 밀치다; 치다, 부딪치다; (걷어) 차다 |
 | [kippen](https://dict.naver.com/dekodict/#/search?range=all&query=kippen) | 1. i. 기울다, 넘어지다, 전복되다 2. t. 기울이다, 비스듬하게 하다 3. t. 부어서 비우다 |
-| [Tollpatsch](https://dict.naver.com/dekodict/#/search?range=all&query=Tollpatsch) | 1. 헝가리 보병의 별명 2. 투박한 사람, 미련한 사람, 무지렁이, 사고뭉치 |
 | [aussuchen](https://dict.naver.com/dekodict/#/search?range=all&query=aussuchen) | 1. t. 골라내다, 선발하다 2. t. «구어» 수색하다, 샅샅이 뒤지다 3. p.a. ↑ ausgesucht |
 | [hinsetzen](https://dict.naver.com/dekodict/#/search?range=all&query=hinsetzen) | 1. t. (어디에) 두다, 놓다 2. t. (자리에) 앉히다; «비유>> 감금하다, 구속하다 3. t. refl. sich hinsetzen (a) 착석하다, 앉다. (b)«구어»깜짝 놀라다; da hab’ ich mich vielleicht hingesetzt, als ich das gestern gehört hab’ 어제 그걸 들었을 때 나는 깜짝 놀랐다. |
 | [abtauchen](https://dict.naver.com/dekodict/#/search?range=all&query=abtauchen) | 1. 잠수하다 |
@@ -530,7 +518,6 @@
 | [erfordern](https://dict.naver.com/dekodict/#/search?range=all&query=erfordern) | 1. t. 필요로 하다, 요(구) 하다 |
 | [ausrichten](https://dict.naver.com/dekodict/#/search?range=all&query=ausrichten) | 1. t. 똑바로 하다; 정돈{정렬}하다; [인쇄] 줄 맞추다 2. t. [광산] (광맥을) 발견하다; 광상(鑛床) 을 개발하다; [사냥] (짐승을) 찾아내다 3. t. (위탁을) 이행하다; (안부를) 전하다 |
 | [verhalten](https://dict.naver.com/dekodict/#/search?range=all&query=verhalten) 1 | 1. t. 2. t. «아어» 억누르다; 억제{자제}하다 3. t. 침묵을 지키다, 숨기다 |
-| [Spesen](https://dict.naver.com/dekodict/#/search?range=all&query=Spesen) | 1. pl. 부수적인 비용; 잡비; 운임 |
 | [abblitzen](https://dict.naver.com/dekodict/#/search?range=all&query=abblitzen) | 1. i. (h.) imp. 2. i. (s.) (총•화약 따위가) 불발이다; «비유» 반짝하고 말다, 목적을 이루지 못하다; «구어» 퇴짜 맞다 3. t. (총을) 발사하다. |
 | [wahren](https://dict.naver.com/dekodict/#/search?range=all&query=wahren) | 1. t. 지키다, 보호{유지}하다 2. t. 주의{조심}하다 3. t. (nordd.) 보존{보관}하다. |
 | [provozieren](https://dict.naver.com/dekodict/#/search?range=all&query=provozieren) | 1. t. 선동하다, 교사(敎唆)하다, 고무하다, 자극하다 2. t. 유발하다, 야기하다 3. t. [의학] (진단•치료 목적으로 어떤 증상을) 유발하다 |
@@ -542,13 +529,10 @@
 | [mitteilen](https://dict.naver.com/dekodict/#/search?range=all&query=mitteilen) | 1. t. 전하다, 알리다, 통지하다; (비밀을) 털어놓다 2. t. [성경•고어•아어] 분배하다, 나누어 주다 3. refl. sich jm. mitteilen 누구에게 심중을 털어 놓다. |
 | [verschweigen](https://dict.naver.com/dekodict/#/search?range=all&query=verschweigen) | 1. t. 비밀로 하다, 숨기다 2. refl. sich verschweigen (무엇에 관해) 침묵하다. 3. p.a. verschwiegen ↑ verschwiegen. |
 | [ausrechnen](https://dict.naver.com/dekodict/#/search?range=all&query=ausrechnen) | 1. t. 계산해 내다다; 해결하다, 풀다 2. refl. 숙고하여 계산해 내다; 기대{예상}하다 3. adv. «부사적» 하필이면, 공교롭게 |
-| [zurückhaltend](https://dict.naver.com/dekodict/#/search?range=all&query=zurückhaltend) | 1. p.a. 유보적인; 냉담한 2. p.a. (bescheiden) 삼가는, 사양하는; 조심스러워하는, 내성적인, 수줍어하는. |
-| [erfahren](https://dict.naver.com/dekodict/#/search?range=all&query=erfahren) | 1. p.a. 경험 많은, 숙달된, 노련한; 처세에 능한 |
 | [leger](https://dict.naver.com/dekodict/#/search?range=all&query=leger) | 1. 홀가분한, 강요받지 않는, 자유로운 2. 간편한 3. 피상적인, 경솔한, 게으른. |
 | [äußern](https://dict.naver.com/dekodict/#/search?range=all&query=äußern) | 1. t. 나타내다, 발표하다; 진술하다 2. refl. 의견을 말하다, 입장을 말하다 3. refl. ..로 나타나다 |
 | [frisieren](https://dict.naver.com/dekodict/#/search?range=all&query=frisieren) | 1. t. 이발하다, 머리를 손질하다 2. t. «비유» 3. t. 보기 좋게 다듬다, 겉모습을 위장하다 |
 | [kämmen](https://dict.naver.com/dekodict/#/search?range=all&query=kämmen) | 1. t. 2. t. 빗질하다 3. t. 반드럽게 하다, 다듬다 |
-| [etabliert](https://dict.naver.com/dekodict/#/search?range=all&query=etabliert) | 1. p.a. 기초가 튼튼한; 확고한 지위를 가진 2. p.p. ↑ etablieren |
 | [reagieren](https://dict.naver.com/dekodict/#/search?range=all&query=reagieren) | 1. i. 반응하다; 반작용하다 2. i. [화학] 반응하다 |
 | [entgegennehmen](https://dict.naver.com/dekodict/#/search?range=all&query=entgegennehmen) | 1. t. 받다, 받아들이다. |
 | [überreichen](https://dict.naver.com/dekodict/#/search?range=all&query=überreichen) | 1. t. «고어»∙∙∙의 너머로 뻗치다. 2. t. 수여하다, 건네주다, 바치다, 증정{헌정}하다 |
