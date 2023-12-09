@@ -2,16 +2,15 @@
 
 [B2 flashcards (Quizlet)](https://quizlet.com/kr/845071153/b2-flash-cards/?funnelUUID=aa3af2d3-988a-4b7a-8ebe-cbe990c9a420)
 
-[B2 Adjektive](./Worter/B2_Adjektive.md)
-
-[B2 Adverb](./Worter/B2_Adverb.md)
-
 [B2 Verben](./Worter/B2_Verben.md)
+
+[B2 Adjektive](./Worter/B2_Adjektive.md)
 
 [B2 Normen](./Worter/B2_Normen.md)
 
-[B2 Phrase](./Worter/B2_Phrase.md)
+[B2 Adverb](./Worter/B2_Adverb.md)
 
+[B2 Phrase](./Worter/B2_Phrase.md)
 
 ## Verben
 
