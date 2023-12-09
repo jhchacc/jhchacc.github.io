@@ -66,6 +66,9 @@
 | [der Fuchs](https://dict.naver.com/dekodict/#/search?range=all&query=Fuchs) | 1. m. 2. m. [동물] 여우 3. m. 여우 가죽 |
 | [der Knigge](https://dict.naver.com/dekodict/#/search?range=all&query=Knigge) | 1. m. 예의 범절{행동 규범}에 관한 책(저작자인 독일의 A.v. Knigge의 이름에서) |
 | [der Fuchs](https://dict.naver.com/dekodict/#/search?range=all&query=Fuchs) | 1. 여우 |
+| [der Windräder](https://dict.naver.com/dekodict/#/search?range=all&query=Windräder) | 1. 풍력 발전기 ; 바람개비 |
+| [der Tollpatsch](https://dict.naver.com/dekodict/#/search?range=all&query=Tollpatsch) | 1. 헝가리 보병의 별명 2. 투박한 사람, 미련한 사람, 무지렁이, 사고뭉치 |
+| [der/die Angeklagte](https://dict.naver.com/dekodict/#/search?range=all&query=Angeklagte) | 1. [법률] 피고(인) |
 | [die Gelegenheit](https://dict.naver.com/dekodict/#/search?range=all&query=Gelegenheit) | 1. f. «고어» (장소의) 위치; (장소의) 배치, 상태, 모양 2. f. 경우, 계기, 때 3. f. 기회, 호기, 찬스 |
 | [die Fernverkehrsstraße](https://dict.naver.com/dekodict/#/search?range=all&query=Fernverkehrsstraße) | 1. f. 장거리 교통용 도로. |
 | [die Formalität](https://dict.naver.com/dekodict/#/search?range=all&query=Formalität) | 1. f. 형식, 형식적인 것 2. f. 형식 규정, 절차 3. f. «드물게» 형식 준수, 격식차리기, 허례. |
@@ -215,4 +218,8 @@
 | [das Privatleben](https://dict.naver.com/dekodict/#/search?range=all&query=Privatleben) | 1. n. 사생활; 개인 생활 |
 | [das Arbeitsverhältnis](https://dict.naver.com/dekodict/#/search?range=all&query=Arbeitsverhältnis) | 1. n. 고용{노사} 관계 |
 | [das Bohnenstroh](https://dict.naver.com/dekodict/#/search?range=all&query=Bohnenstroh) | 1. n. 콩대 |
+| [die Wiesen](https://dict.naver.com/dekodict/#/search?range=all&query=Wiesen) | 1. pl. 초원, 풀밭, 목초지, 목장 |
+| [die Spesen](https://dict.naver.com/dekodict/#/search?range=all&query=Spesen) | 1. pl. 부수적인 비용; 잡비; 운임 |
 | [die Sozialleistungen](https://dict.naver.com/dekodict/#/search?range=all&query=Sozialleistungen) | 1. pl. «총칭»(가계나 개인에게 지급되는) 사회 복지 보조금. |
+| [die Klimaerwärmung](https://dict.naver.com/dekodict/#/search?range=all&query=Klimaerwärmung) | 1. (die) 지구 온난화(climate warming) 2. f. 지구 온난화 |
+
