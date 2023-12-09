@@ -205,7 +205,6 @@
 | [angeregt](https://dict.naver.com/dekodict/#/search?query=angeregt) | 1. p.p. ↑ anregen. 2. p.a. (대화가) 활발한, 활기찬, 흥미로운 3. p.a. [물리] 여기(勵起) 의. |
 | [gestört](https://dict.naver.com/dekodict/#/search?query=gestört) | 1. p.p. ↑ stören1. 2. p.a. 결함{이상}이 있는 |
 | [homöopathisch](https://dict.naver.com/dekodict/#/search?query=homöopathisch) | 1. adj. 동종 요법의 |
-| [vorhanden](https://dict.naver.com/dekodict/#/search?query=vorhanden) | 1. adj. 수중에 있는; 존재하는 2. adj. [성경•고어] 긴박한 |
 | [ursprünglich](https://dict.naver.com/dekodict/#/search?query=ursprünglich) | 1. adj. 본원의, 최초{본래}의; 독창적인 2. adj. 단순한, 자연적인 3. adj. 원시적인, 소박한, 왜곡되지 않은 |
 | [ungeschickt](https://dict.naver.com/dekodict/#/search?query=ungeschickt) | 1. adj. 서투른, 미숙한; 영리하지 못한; 세련되지 못한 2. adj. (südd.) 실제적{실용적}이지 못한; 부적절{부적당}한 |
 | [ambulant](https://dict.naver.com/dekodict/#/search?query=ambulant) | 1. adj. 이동{편력}하는, 순회하는 2. adj. [의학] 외래(外來) 의(↔ stationär) |
@@ -294,7 +293,7 @@
 | [ungefährlich](https://dict.naver.com/dekodict/#/search?range=all&query=ungefährlich) | 1. adj. 위험하지 않은; 위태롭지 않은 |
 | [unbestritten](https://dict.naver.com/dekodict/#/search?range=all&query=unbestritten) | 1. adj. 반박할 수 없는, 누구나 인정하는, 확실한 |
 | [eigentlich](https://dict.naver.com/dekodict/#/search?range=all&query=eigentlich) | 1. adj. 본래의, 원래의, 고유한; 엄밀한; 참된, 실제의 2. adv. 원래; 엄밀히, 참으로, 실제로 3. adv. (특히 의문문에서) 도대체, 그런데 |
-| [zitt(e)rig](https://dict.naver.com/dekodict/#/search?range=all&query=zittrig) | 1. adj. (노쇠•신경쇠약으로) 떠는, 떨리는 |
+| [zitt](https://dict.naver.com/dekodict/#/search?range=all&query=)zitt(e)rig | 1. adj. (노쇠•신경쇠약으로) 떠는, 떨리는 |
 | [bewusst](https://dict.naver.com/dekodict/#/search?range=all&query=bewusst) | 1. adj. 알고 있는, 의식하는 2. adj. 의도적인, 고의의 3. adj. 언급한, 알려진 |
 | [erheblich](https://dict.naver.com/dekodict/#/search?range=all&query=erheblich) | 1. adj. 중요한, 중대한, 두드러진, 현저한; 유력한 |
 | [ausschließlich](https://dict.naver.com/dekodict/#/search?range=all&query=ausschließlich) | 1. adj. 배타적인, 독점적인; 전유(專有)의 2. adv. 오로지, 오직, 독점적으로 3. prp.2 (∙∙∙을) 제외하고, 계산에 넣지 않고 |
@@ -349,5 +348,3 @@
 | [zurückhaltend](https://dict.naver.com/dekodict/#/search?range=all&query=zurückhaltend) | 1. p.a. 유보적인; 냉담한 2. p.a. (bescheiden) 삼가는, 사양하는; 조심스러워하는, 내성적인, 수줍어하는. |
 | [erfahren](https://dict.naver.com/dekodict/#/search?range=all&query=erfahren) | 1. p.a. 경험 많은, 숙달된, 노련한; 처세에 능한 |
 | [etabliert](https://dict.naver.com/dekodict/#/search?range=all&query=etabliert) | 1. p.a. 기초가 튼튼한; 확고한 지위를 가진 2. p.p. ↑ etablieren |
-
-
