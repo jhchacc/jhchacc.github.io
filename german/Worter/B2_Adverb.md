@@ -56,3 +56,4 @@
 | [dahinten](https://dict.naver.com/dekodict/#/search?range=all&query=dahinten) | 1. adv. 그 뒤에. |
 | [hingegen](https://dict.naver.com/dekodict/#/search?range=all&query=hingegen) | 1. adv. 이와 반대로 |
 | [bislang](https://dict.naver.com/dekodict/#/search?range=all&query=bislang) | 1. adv. 여태까지, 지금까지 |
+
