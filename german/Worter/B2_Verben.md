@@ -384,7 +384,7 @@
 | [nachhelfen](https://dict.naver.com/dekodict/#/search?range=all&query=nachhelfen) | 1. i. jm. nachhelfen 누구를 거들어 주다, 후원하다 2. i. et.3 nachhelfen 무엇을 촉진{진척}시키다 |
 | [gefährden](https://dict.naver.com/dekodict/#/search?range=all&query=gefährden) | 1. t. 위태롭게 하다, 위험을 끼치다; (건강•신용 따위를) 해치다, 상하게 하다 2. i. «드물게» 위험을 무릅쓰다 3. p.a. gefährdet ↑ gefährdet |
 | [herrschen](https://dict.naver.com/dekodict/#/search?range=all&query=herrschen) | 1. i. 지배하다, 통치하다, 통어하다; 다스리다, 관리하다; 군림하다 2. i. (장소를) 굽어보다, 내려다보다, 우뚝 솟아 있다 3. i. 유행하다; 우세하다, (어떤 분위기•의견이) 지배적이다; (전염병이) 창궐하다 |
-| [dar|stellen](https://dict.naver.com/dekodict/#/entry/deko/24382aec2a99498e994b9af9035ef570) | 1. t. 거기에 놓다{세워 두다}; 눈 앞에 나타내다, 명시{제시}하다. 2. t. [화학] (금속 등을) 석출(析出)하다; 조제하다, 합성하다. 3. t. 표현{재현}하다, 묘사{서술}하다, 그려 내다; (어떤 역을) 연기하다, 상연하다 |
+| [dar\|stellen](https://dict.naver.com/dekodict/#/entry/deko/24382aec2a99498e994b9af9035ef570) | 1. t. 거기에 놓다{세워 두다}; 눈 앞에 나타내다, 명시{제시}하다. 2. t. [화학] (금속 등을) 석출(析出)하다; 조제하다, 합성하다. 3. t. 표현{재현}하다, 묘사{서술}하다, 그려 내다; (어떤 역을) 연기하다, 상연하다 |
 | [regeln](https://dict.naver.com/dekodict/#/search?range=all&query=regeln) | 1. t. 규칙을 세우다, 규정하다, 규칙적으로 단속하다, 정리하다, 정돈하다, 조정하다, 조화시키다 2. refl. 규율을 지키다, 규칙적인 생활을 하다, 처리되다 |
 | [verwalten](https://dict.naver.com/dekodict/#/search?range=all&query=verwalten) | 1. t. 관리하다, 지배하다; 경영하다 |
 | [knüpfen](https://dict.naver.com/dekodict/#/search?range=all&query=knüpfen) | 1. t. 맺다, 매다, 짜다, 매듭짓다 2. refl. sich an et. knüpfen 무엇에 묶이다, ∙∙∙과 결합되다. |
